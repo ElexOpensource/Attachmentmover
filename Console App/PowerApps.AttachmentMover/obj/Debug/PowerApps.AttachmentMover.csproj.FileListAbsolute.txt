@@ -1,0 +1,552 @@
+C:\Elex Projects\Open source\Attachment Mover\ArchivalPowerApps\Attachment Mover\PowerApps.AttachmentMover\bin\Debug\PowerApps.AttachmentMover.exe.config
+C:\Elex Projects\Open source\Attachment Mover\ArchivalPowerApps\Attachment Mover\PowerApps.AttachmentMover\bin\Debug\PowerApps.AttachmentMover.exe
+C:\Elex Projects\Open source\Attachment Mover\ArchivalPowerApps\Attachment Mover\PowerApps.AttachmentMover\bin\Debug\PowerApps.AttachmentMover.pdb
+C:\Elex Projects\Open source\Attachment Mover\ArchivalPowerApps\Attachment Mover\PowerApps.AttachmentMover\bin\Debug\es-ES\PowerApps.AttachmentMover.resources.dll
+C:\Elex Projects\Open source\Attachment Mover\ArchivalPowerApps\Attachment Mover\PowerApps.AttachmentMover\bin\Debug\hi-IN\PowerApps.AttachmentMover.resources.dll
+C:\Elex Projects\Open source\Attachment Mover\ArchivalPowerApps\Attachment Mover\PowerApps.AttachmentMover\bin\Debug\AngleSharp.Css.dll
+C:\Elex Projects\Open source\Attachment Mover\ArchivalPowerApps\Attachment Mover\PowerApps.AttachmentMover\bin\Debug\AngleSharp.dll
+C:\Elex Projects\Open source\Attachment Mover\ArchivalPowerApps\Attachment Mover\PowerApps.AttachmentMover\bin\Debug\Azure.Core.dll
+C:\Elex Projects\Open source\Attachment Mover\ArchivalPowerApps\Attachment Mover\PowerApps.AttachmentMover\bin\Debug\Azure.Storage.Blobs.dll
+C:\Elex Projects\Open source\Attachment Mover\ArchivalPowerApps\Attachment Mover\PowerApps.AttachmentMover\bin\Debug\Azure.Storage.Common.dll
+C:\Elex Projects\Open source\Attachment Mover\ArchivalPowerApps\Attachment Mover\PowerApps.AttachmentMover\bin\Debug\Castle.Core.dll
+C:\Elex Projects\Open source\Attachment Mover\ArchivalPowerApps\Attachment Mover\PowerApps.AttachmentMover\bin\Debug\CrashReporter.NET.dll
+C:\Elex Projects\Open source\Attachment Mover\ArchivalPowerApps\Attachment Mover\PowerApps.AttachmentMover\bin\Debug\Extensions.Logging.NSubstitute.dll
+C:\Elex Projects\Open source\Attachment Mover\ArchivalPowerApps\Attachment Mover\PowerApps.AttachmentMover\bin\Debug\Microsoft.ApplicationInsights.dll
+C:\Elex Projects\Open source\Attachment Mover\ArchivalPowerApps\Attachment Mover\PowerApps.AttachmentMover\bin\Debug\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\Elex Projects\Open source\Attachment Mover\ArchivalPowerApps\Attachment Mover\PowerApps.AttachmentMover\bin\Debug\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\Elex Projects\Open source\Attachment Mover\ArchivalPowerApps\Attachment Mover\PowerApps.AttachmentMover\bin\Debug\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Elex Projects\Open source\Attachment Mover\ArchivalPowerApps\Attachment Mover\PowerApps.AttachmentMover\bin\Debug\Microsoft.AspNetCore.Http.Extensions.dll
+C:\Elex Projects\Open source\Attachment Mover\ArchivalPowerApps\Attachment Mover\PowerApps.AttachmentMover\bin\Debug\Microsoft.AspNetCore.Http.Features.dll
+C:\Elex Projects\Open source\Attachment Mover\ArchivalPowerApps\Attachment Mover\PowerApps.AttachmentMover\bin\Debug\Microsoft.AspNetCore.StaticFiles.dll
+C:\Elex Projects\Open source\Attachment Mover\ArchivalPowerApps\Attachment Mover\PowerApps.AttachmentMover\bin\Debug\Microsoft.Azure.ActiveDirectory.GraphClient.dll
+C:\Elex Projects\Open source\Attachment Mover\ArchivalPowerApps\Attachment Mover\PowerApps.AttachmentMover\bin\Debug\Microsoft.Azure.KeyVault.Core.dll
+C:\Elex Projects\Open source\Attachment Mover\ArchivalPowerApps\Attachment Mover\PowerApps.AttachmentMover\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Elex Projects\Open source\Attachment Mover\ArchivalPowerApps\Attachment Mover\PowerApps.AttachmentMover\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Elex Projects\Open source\Attachment Mover\ArchivalPowerApps\Attachment Mover\PowerApps.AttachmentMover\bin\Debug\Microsoft.BusinessData.dll
+C:\Elex Projects\Open source\Attachment Mover\ArchivalPowerApps\Attachment Mover\PowerApps.AttachmentMover\bin\Debug\Microsoft.Crm.Sdk.Proxy.dll
+C:\Elex Projects\Open source\Attachment Mover\ArchivalPowerApps\Attachment Mover\PowerApps.AttachmentMover\bin\Debug\Microsoft.Data.Edm.dll
+C:\Elex Projects\Open source\Attachment Mover\ArchivalPowerApps\Attachment Mover\PowerApps.AttachmentMover\bin\Debug\Microsoft.Data.OData.dll
+C:\Elex Projects\Open source\Attachment Mover\ArchivalPowerApps\Attachment Mover\PowerApps.AttachmentMover\bin\Debug\Microsoft.Data.Services.Client.dll
+C:\Elex Projects\Open source\Attachment Mover\ArchivalPowerApps\Attachment Mover\PowerApps.AttachmentMover\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Elex Projects\Open source\Attachment Mover\ArchivalPowerApps\Attachment Mover\PowerApps.AttachmentMover\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+C:\Elex Projects\Open source\Attachment Mover\ArchivalPowerApps\Attachment Mover\PowerApps.AttachmentMover\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Elex Projects\Open source\Attachment Mover\ArchivalPowerApps\Attachment Mover\PowerApps.AttachmentMover\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+C:\Elex Projects\Open source\Attachment Mover\ArchivalPowerApps\Attachment Mover\PowerApps.AttachmentMover\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Elex Projects\Open source\Attachment Mover\ArchivalPowerApps\Attachment Mover\PowerApps.AttachmentMover\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Elex Projects\Open source\Attachment Mover\ArchivalPowerApps\Attachment Mover\PowerApps.AttachmentMover\bin\Debug\Microsoft.Extensions.Configuration.Json.dll
+C:\Elex Projects\Open source\Attachment Mover\ArchivalPowerApps\Attachment Mover\PowerApps.AttachmentMover\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Elex Projects\Open source\Attachment Mover\ArchivalPowerApps\Attachment Mover\PowerApps.AttachmentMover\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Elex Projects\Open source\Attachment Mover\ArchivalPowerApps\Attachment Mover\PowerApps.AttachmentMover\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Elex Projects\Open source\Attachment Mover\ArchivalPowerApps\Attachment Mover\PowerApps.AttachmentMover\bin\Debug\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Elex Projects\Open source\Attachment Mover\ArchivalPowerApps\Attachment Mover\PowerApps.AttachmentMover\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Elex Projects\Open source\Attachment Mover\ArchivalPowerApps\Attachment Mover\PowerApps.AttachmentMover\bin\Debug\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Elex Projects\Open source\Attachment Mover\ArchivalPowerApps\Attachment Mover\PowerApps.AttachmentMover\bin\Debug\Microsoft.Extensions.Http.dll
+C:\Elex Projects\Open source\Attachment Mover\ArchivalPowerApps\Attachment Mover\PowerApps.AttachmentMover\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Elex Projects\Open source\Attachment Mover\ArchivalPowerApps\Attachment Mover\PowerApps.AttachmentMover\bin\Debug\Microsoft.Extensions.Logging.Configuration.dll
+C:\Elex Projects\Open source\Attachment Mover\ArchivalPowerApps\Attachment Mover\PowerApps.AttachmentMover\bin\Debug\Microsoft.Extensions.Logging.Console.dll
+C:\Elex Projects\Open source\Attachment Mover\ArchivalPowerApps\Attachment Mover\PowerApps.AttachmentMover\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Elex Projects\Open source\Attachment Mover\ArchivalPowerApps\Attachment Mover\PowerApps.AttachmentMover\bin\Debug\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Elex Projects\Open source\Attachment Mover\ArchivalPowerApps\Attachment Mover\PowerApps.AttachmentMover\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Elex Projects\Open source\Attachment Mover\ArchivalPowerApps\Attachment Mover\PowerApps.AttachmentMover\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Elex Projects\Open source\Attachment Mover\ArchivalPowerApps\Attachment Mover\PowerApps.AttachmentMover\bin\Debug\Microsoft.Extensions.WebEncoders.dll
+C:\Elex Projects\Open source\Attachment Mover\ArchivalPowerApps\Attachment Mover\PowerApps.AttachmentMover\bin\Debug\Microsoft.Graph.Core.dll
+C:\Elex Projects\Open source\Attachment Mover\ArchivalPowerApps\Attachment Mover\PowerApps.AttachmentMover\bin\Debug\Microsoft.Graph.dll
+C:\Elex Projects\Open source\Attachment Mover\ArchivalPowerApps\Attachment Mover\PowerApps.AttachmentMover\bin\Debug\Microsoft.Identity.Client.dll
+C:\Elex Projects\Open source\Attachment Mover\ArchivalPowerApps\Attachment Mover\PowerApps.AttachmentMover\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Elex Projects\Open source\Attachment Mover\ArchivalPowerApps\Attachment Mover\PowerApps.AttachmentMover\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+C:\Elex Projects\Open source\Attachment Mover\ArchivalPowerApps\Attachment Mover\PowerApps.AttachmentMover\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.Platform.dll
+C:\Elex Projects\Open source\Attachment Mover\ArchivalPowerApps\Attachment Mover\PowerApps.AttachmentMover\bin\Debug\microsoft.identitymodel.dll
+C:\Elex Projects\Open source\Attachment Mover\ArchivalPowerApps\Attachment Mover\PowerApps.AttachmentMover\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Elex Projects\Open source\Attachment Mover\ArchivalPowerApps\Attachment Mover\PowerApps.AttachmentMover\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Elex Projects\Open source\Attachment Mover\ArchivalPowerApps\Attachment Mover\PowerApps.AttachmentMover\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Elex Projects\Open source\Attachment Mover\ArchivalPowerApps\Attachment Mover\PowerApps.AttachmentMover\bin\Debug\Microsoft.Net.Http.Headers.dll
+C:\Elex Projects\Open source\Attachment Mover\ArchivalPowerApps\Attachment Mover\PowerApps.AttachmentMover\bin\Debug\Microsoft.Office.Client.Education.dll
+C:\Elex Projects\Open source\Attachment Mover\ArchivalPowerApps\Attachment Mover\PowerApps.AttachmentMover\bin\Debug\Microsoft.Office.Client.Policy.dll
+C:\Elex Projects\Open source\Attachment Mover\ArchivalPowerApps\Attachment Mover\PowerApps.AttachmentMover\bin\Debug\Microsoft.Office.Client.TranslationServices.dll
+C:\Elex Projects\Open source\Attachment Mover\ArchivalPowerApps\Attachment Mover\PowerApps.AttachmentMover\bin\Debug\Microsoft.Office.DocumentManagement.dll
+C:\Elex Projects\Open source\Attachment Mover\ArchivalPowerApps\Attachment Mover\PowerApps.AttachmentMover\bin\Debug\Microsoft.Office.Policy.dll
+C:\Elex Projects\Open source\Attachment Mover\ArchivalPowerApps\Attachment Mover\PowerApps.AttachmentMover\bin\Debug\Microsoft.Office.SecureStoreService.dll
+C:\Elex Projects\Open source\Attachment Mover\ArchivalPowerApps\Attachment Mover\PowerApps.AttachmentMover\bin\Debug\Microsoft.Office.SecureStoreService.Server.Security.dll
+C:\Elex Projects\Open source\Attachment Mover\ArchivalPowerApps\Attachment Mover\PowerApps.AttachmentMover\bin\Debug\Microsoft.Office.Server.dll
+C:\Elex Projects\Open source\Attachment Mover\ArchivalPowerApps\Attachment Mover\PowerApps.AttachmentMover\bin\Debug\Microsoft.Office.Server.Search.dll
+C:\Elex Projects\Open source\Attachment Mover\ArchivalPowerApps\Attachment Mover\PowerApps.AttachmentMover\bin\Debug\Microsoft.Office.Server.UserProfiles.dll
+C:\Elex Projects\Open source\Attachment Mover\ArchivalPowerApps\Attachment Mover\PowerApps.AttachmentMover\bin\Debug\Microsoft.Office.SharePoint.Tools.dll
+C:\Elex Projects\Open source\Attachment Mover\ArchivalPowerApps\Attachment Mover\PowerApps.AttachmentMover\bin\Debug\Microsoft.Online.SharePoint.Client.Tenant.dll
+C:\Elex Projects\Open source\Attachment Mover\ArchivalPowerApps\Attachment Mover\PowerApps.AttachmentMover\bin\Debug\Microsoft.ProjectServer.Client.dll
+C:\Elex Projects\Open source\Attachment Mover\ArchivalPowerApps\Attachment Mover\PowerApps.AttachmentMover\bin\Debug\Microsoft.Rest.ClientRuntime.dll
+C:\Elex Projects\Open source\Attachment Mover\ArchivalPowerApps\Attachment Mover\PowerApps.AttachmentMover\bin\Debug\Microsoft.SharePoint.ApplicationPages.Administration.dll
+C:\Elex Projects\Open source\Attachment Mover\ArchivalPowerApps\Attachment Mover\PowerApps.AttachmentMover\bin\Debug\Microsoft.SharePoint.ApplicationPages.dll
+C:\Elex Projects\Open source\Attachment Mover\ArchivalPowerApps\Attachment Mover\PowerApps.AttachmentMover\bin\Debug\Microsoft.SharePoint.Client.dll
+C:\Elex Projects\Open source\Attachment Mover\ArchivalPowerApps\Attachment Mover\PowerApps.AttachmentMover\bin\Debug\Microsoft.SharePoint.Client.DocumentManagement.dll
+C:\Elex Projects\Open source\Attachment Mover\ArchivalPowerApps\Attachment Mover\PowerApps.AttachmentMover\bin\Debug\Microsoft.SharePoint.Client.Publishing.dll
+C:\Elex Projects\Open source\Attachment Mover\ArchivalPowerApps\Attachment Mover\PowerApps.AttachmentMover\bin\Debug\Microsoft.SharePoint.Client.Runtime.dll
+C:\Elex Projects\Open source\Attachment Mover\ArchivalPowerApps\Attachment Mover\PowerApps.AttachmentMover\bin\Debug\Microsoft.SharePoint.Client.Search.Applications.dll
+C:\Elex Projects\Open source\Attachment Mover\ArchivalPowerApps\Attachment Mover\PowerApps.AttachmentMover\bin\Debug\Microsoft.SharePoint.Client.Search.dll
+C:\Elex Projects\Open source\Attachment Mover\ArchivalPowerApps\Attachment Mover\PowerApps.AttachmentMover\bin\Debug\Microsoft.SharePoint.Client.ServerRuntime.dll
+C:\Elex Projects\Open source\Attachment Mover\ArchivalPowerApps\Attachment Mover\PowerApps.AttachmentMover\bin\Debug\Microsoft.SharePoint.Client.Taxonomy.dll
+C:\Elex Projects\Open source\Attachment Mover\ArchivalPowerApps\Attachment Mover\PowerApps.AttachmentMover\bin\Debug\Microsoft.SharePoint.Client.UserProfiles.dll
+C:\Elex Projects\Open source\Attachment Mover\ArchivalPowerApps\Attachment Mover\PowerApps.AttachmentMover\bin\Debug\Microsoft.SharePoint.Client.WorkflowServices.dll
+C:\Elex Projects\Open source\Attachment Mover\ArchivalPowerApps\Attachment Mover\PowerApps.AttachmentMover\bin\Debug\Microsoft.SharePoint.DesignTime.Activities.dll
+C:\Elex Projects\Open source\Attachment Mover\ArchivalPowerApps\Attachment Mover\PowerApps.AttachmentMover\bin\Debug\Microsoft.SharePoint.dll
+C:\Elex Projects\Open source\Attachment Mover\ArchivalPowerApps\Attachment Mover\PowerApps.AttachmentMover\bin\Debug\Microsoft.SharePoint.Portal.dll
+C:\Elex Projects\Open source\Attachment Mover\ArchivalPowerApps\Attachment Mover\PowerApps.AttachmentMover\bin\Debug\Microsoft.SharePoint.Publishing.dll
+C:\Elex Projects\Open source\Attachment Mover\ArchivalPowerApps\Attachment Mover\PowerApps.AttachmentMover\bin\Debug\Microsoft.SharePoint.Security.dll
+C:\Elex Projects\Open source\Attachment Mover\ArchivalPowerApps\Attachment Mover\PowerApps.AttachmentMover\bin\Debug\Microsoft.SharePoint.Taxonomy.dll
+C:\Elex Projects\Open source\Attachment Mover\ArchivalPowerApps\Attachment Mover\PowerApps.AttachmentMover\bin\Debug\Microsoft.Sharepoint.WorkflowActions.dll
+C:\Elex Projects\Open source\Attachment Mover\ArchivalPowerApps\Attachment Mover\PowerApps.AttachmentMover\bin\Debug\Microsoft.WindowsAzure.Storage.dll
+C:\Elex Projects\Open source\Attachment Mover\ArchivalPowerApps\Attachment Mover\PowerApps.AttachmentMover\bin\Debug\Microsoft.Xrm.Sdk.Deployment.dll
+C:\Elex Projects\Open source\Attachment Mover\ArchivalPowerApps\Attachment Mover\PowerApps.AttachmentMover\bin\Debug\Microsoft.Xrm.Sdk.dll
+C:\Elex Projects\Open source\Attachment Mover\ArchivalPowerApps\Attachment Mover\PowerApps.AttachmentMover\bin\Debug\Microsoft.Xrm.Sdk.Workflow.dll
+C:\Elex Projects\Open source\Attachment Mover\ArchivalPowerApps\Attachment Mover\PowerApps.AttachmentMover\bin\Debug\Microsoft.Xrm.Tooling.Connector.dll
+C:\Elex Projects\Open source\Attachment Mover\ArchivalPowerApps\Attachment Mover\PowerApps.AttachmentMover\bin\Debug\Newtonsoft.Json.dll
+C:\Elex Projects\Open source\Attachment Mover\ArchivalPowerApps\Attachment Mover\PowerApps.AttachmentMover\bin\Debug\NSubstitute.dll
+C:\Elex Projects\Open source\Attachment Mover\ArchivalPowerApps\Attachment Mover\PowerApps.AttachmentMover\bin\Debug\OfficeDevPnP.Core.dll
+C:\Elex Projects\Open source\Attachment Mover\ArchivalPowerApps\Attachment Mover\PowerApps.AttachmentMover\bin\Debug\PnP.Core.dll
+C:\Elex Projects\Open source\Attachment Mover\ArchivalPowerApps\Attachment Mover\PowerApps.AttachmentMover\bin\Debug\PnP.Framework.dll
+C:\Elex Projects\Open source\Attachment Mover\ArchivalPowerApps\Attachment Mover\PowerApps.AttachmentMover\bin\Debug\Portable.Xaml.dll
+C:\Elex Projects\Open source\Attachment Mover\ArchivalPowerApps\Attachment Mover\PowerApps.AttachmentMover\bin\Debug\Serilog.dll
+C:\Elex Projects\Open source\Attachment Mover\ArchivalPowerApps\Attachment Mover\PowerApps.AttachmentMover\bin\Debug\Serilog.Extensions.Logging.dll
+C:\Elex Projects\Open source\Attachment Mover\ArchivalPowerApps\Attachment Mover\PowerApps.AttachmentMover\bin\Debug\Serilog.Sinks.EventLog.dll
+C:\Elex Projects\Open source\Attachment Mover\ArchivalPowerApps\Attachment Mover\PowerApps.AttachmentMover\bin\Debug\Serilog.Sinks.File.dll
+C:\Elex Projects\Open source\Attachment Mover\ArchivalPowerApps\Attachment Mover\PowerApps.AttachmentMover\bin\Debug\SharePointPnP.IdentityModel.Extensions.dll
+C:\Elex Projects\Open source\Attachment Mover\ArchivalPowerApps\Attachment Mover\PowerApps.AttachmentMover\bin\Debug\System.Buffers.dll
+C:\Elex Projects\Open source\Attachment Mover\ArchivalPowerApps\Attachment Mover\PowerApps.AttachmentMover\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Elex Projects\Open source\Attachment Mover\ArchivalPowerApps\Attachment Mover\PowerApps.AttachmentMover\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Elex Projects\Open source\Attachment Mover\ArchivalPowerApps\Attachment Mover\PowerApps.AttachmentMover\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Elex Projects\Open source\Attachment Mover\ArchivalPowerApps\Attachment Mover\PowerApps.AttachmentMover\bin\Debug\System.IO.Packaging.dll
+C:\Elex Projects\Open source\Attachment Mover\ArchivalPowerApps\Attachment Mover\PowerApps.AttachmentMover\bin\Debug\System.Memory.Data.dll
+C:\Elex Projects\Open source\Attachment Mover\ArchivalPowerApps\Attachment Mover\PowerApps.AttachmentMover\bin\Debug\System.Memory.dll
+C:\Elex Projects\Open source\Attachment Mover\ArchivalPowerApps\Attachment Mover\PowerApps.AttachmentMover\bin\Debug\System.Net.Http.Formatting.dll
+C:\Elex Projects\Open source\Attachment Mover\ArchivalPowerApps\Attachment Mover\PowerApps.AttachmentMover\bin\Debug\System.Numerics.Vectors.dll
+C:\Elex Projects\Open source\Attachment Mover\ArchivalPowerApps\Attachment Mover\PowerApps.AttachmentMover\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Elex Projects\Open source\Attachment Mover\ArchivalPowerApps\Attachment Mover\PowerApps.AttachmentMover\bin\Debug\System.Security.AccessControl.dll
+C:\Elex Projects\Open source\Attachment Mover\ArchivalPowerApps\Attachment Mover\PowerApps.AttachmentMover\bin\Debug\System.Security.Permissions.dll
+C:\Elex Projects\Open source\Attachment Mover\ArchivalPowerApps\Attachment Mover\PowerApps.AttachmentMover\bin\Debug\System.Security.Principal.Windows.dll
+C:\Elex Projects\Open source\Attachment Mover\ArchivalPowerApps\Attachment Mover\PowerApps.AttachmentMover\bin\Debug\System.Spatial.dll
+C:\Elex Projects\Open source\Attachment Mover\ArchivalPowerApps\Attachment Mover\PowerApps.AttachmentMover\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Elex Projects\Open source\Attachment Mover\ArchivalPowerApps\Attachment Mover\PowerApps.AttachmentMover\bin\Debug\System.Text.Encodings.Web.dll
+C:\Elex Projects\Open source\Attachment Mover\ArchivalPowerApps\Attachment Mover\PowerApps.AttachmentMover\bin\Debug\System.Text.Json.dll
+C:\Elex Projects\Open source\Attachment Mover\ArchivalPowerApps\Attachment Mover\PowerApps.AttachmentMover\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Elex Projects\Open source\Attachment Mover\ArchivalPowerApps\Attachment Mover\PowerApps.AttachmentMover\bin\Debug\System.ValueTuple.dll
+C:\Elex Projects\Open source\Attachment Mover\ArchivalPowerApps\Attachment Mover\PowerApps.AttachmentMover\bin\Debug\System.Web.Http.dll
+C:\Elex Projects\Open source\Attachment Mover\ArchivalPowerApps\Attachment Mover\PowerApps.AttachmentMover\bin\Debug\TimeZoneConverter.dll
+C:\Elex Projects\Open source\Attachment Mover\ArchivalPowerApps\Attachment Mover\PowerApps.AttachmentMover\bin\Debug\Microsoft.mshtml.dll
+C:\Elex Projects\Open source\Attachment Mover\ArchivalPowerApps\Attachment Mover\PowerApps.AttachmentMover\bin\Debug\Microsoft.Web.Administration.dll
+C:\Elex Projects\Open source\Attachment Mover\ArchivalPowerApps\Attachment Mover\PowerApps.AttachmentMover\bin\Debug\Microsoft.Activities.dll
+C:\Elex Projects\Open source\Attachment Mover\ArchivalPowerApps\Attachment Mover\PowerApps.AttachmentMover\bin\Debug\AngleSharp.xml
+C:\Elex Projects\Open source\Attachment Mover\ArchivalPowerApps\Attachment Mover\PowerApps.AttachmentMover\bin\Debug\AngleSharp.Css.xml
+C:\Elex Projects\Open source\Attachment Mover\ArchivalPowerApps\Attachment Mover\PowerApps.AttachmentMover\bin\Debug\Azure.Core.xml
+C:\Elex Projects\Open source\Attachment Mover\ArchivalPowerApps\Attachment Mover\PowerApps.AttachmentMover\bin\Debug\Azure.Storage.Blobs.xml
+C:\Elex Projects\Open source\Attachment Mover\ArchivalPowerApps\Attachment Mover\PowerApps.AttachmentMover\bin\Debug\Azure.Storage.Common.xml
+C:\Elex Projects\Open source\Attachment Mover\ArchivalPowerApps\Attachment Mover\PowerApps.AttachmentMover\bin\Debug\Castle.Core.xml
+C:\Elex Projects\Open source\Attachment Mover\ArchivalPowerApps\Attachment Mover\PowerApps.AttachmentMover\bin\Debug\CrashReporter.NET.pdb
+C:\Elex Projects\Open source\Attachment Mover\ArchivalPowerApps\Attachment Mover\PowerApps.AttachmentMover\bin\Debug\CrashReporter.NET.xml
+C:\Elex Projects\Open source\Attachment Mover\ArchivalPowerApps\Attachment Mover\PowerApps.AttachmentMover\bin\Debug\CrashReporter.NET.dll.config
+C:\Elex Projects\Open source\Attachment Mover\ArchivalPowerApps\Attachment Mover\PowerApps.AttachmentMover\bin\Debug\Microsoft.ApplicationInsights.pdb
+C:\Elex Projects\Open source\Attachment Mover\ArchivalPowerApps\Attachment Mover\PowerApps.AttachmentMover\bin\Debug\Microsoft.ApplicationInsights.xml
+C:\Elex Projects\Open source\Attachment Mover\ArchivalPowerApps\Attachment Mover\PowerApps.AttachmentMover\bin\Debug\Microsoft.AspNetCore.Hosting.Abstractions.xml
+C:\Elex Projects\Open source\Attachment Mover\ArchivalPowerApps\Attachment Mover\PowerApps.AttachmentMover\bin\Debug\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+C:\Elex Projects\Open source\Attachment Mover\ArchivalPowerApps\Attachment Mover\PowerApps.AttachmentMover\bin\Debug\Microsoft.AspNetCore.Http.Abstractions.xml
+C:\Elex Projects\Open source\Attachment Mover\ArchivalPowerApps\Attachment Mover\PowerApps.AttachmentMover\bin\Debug\Microsoft.AspNetCore.Http.Extensions.xml
+C:\Elex Projects\Open source\Attachment Mover\ArchivalPowerApps\Attachment Mover\PowerApps.AttachmentMover\bin\Debug\Microsoft.AspNetCore.Http.Features.xml
+C:\Elex Projects\Open source\Attachment Mover\ArchivalPowerApps\Attachment Mover\PowerApps.AttachmentMover\bin\Debug\Microsoft.AspNetCore.StaticFiles.xml
+C:\Elex Projects\Open source\Attachment Mover\ArchivalPowerApps\Attachment Mover\PowerApps.AttachmentMover\bin\Debug\Microsoft.Azure.KeyVault.Core.xml
+C:\Elex Projects\Open source\Attachment Mover\ArchivalPowerApps\Attachment Mover\PowerApps.AttachmentMover\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Elex Projects\Open source\Attachment Mover\ArchivalPowerApps\Attachment Mover\PowerApps.AttachmentMover\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Elex Projects\Open source\Attachment Mover\ArchivalPowerApps\Attachment Mover\PowerApps.AttachmentMover\bin\Debug\Microsoft.Crm.Sdk.Proxy.xml
+C:\Elex Projects\Open source\Attachment Mover\ArchivalPowerApps\Attachment Mover\PowerApps.AttachmentMover\bin\Debug\Microsoft.Data.Edm.xml
+C:\Elex Projects\Open source\Attachment Mover\ArchivalPowerApps\Attachment Mover\PowerApps.AttachmentMover\bin\Debug\Microsoft.Data.OData.xml
+C:\Elex Projects\Open source\Attachment Mover\ArchivalPowerApps\Attachment Mover\PowerApps.AttachmentMover\bin\Debug\Microsoft.Data.Services.Client.xml
+C:\Elex Projects\Open source\Attachment Mover\ArchivalPowerApps\Attachment Mover\PowerApps.AttachmentMover\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Elex Projects\Open source\Attachment Mover\ArchivalPowerApps\Attachment Mover\PowerApps.AttachmentMover\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+C:\Elex Projects\Open source\Attachment Mover\ArchivalPowerApps\Attachment Mover\PowerApps.AttachmentMover\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Elex Projects\Open source\Attachment Mover\ArchivalPowerApps\Attachment Mover\PowerApps.AttachmentMover\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Elex Projects\Open source\Attachment Mover\ArchivalPowerApps\Attachment Mover\PowerApps.AttachmentMover\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+C:\Elex Projects\Open source\Attachment Mover\ArchivalPowerApps\Attachment Mover\PowerApps.AttachmentMover\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.xml
+C:\Elex Projects\Open source\Attachment Mover\ArchivalPowerApps\Attachment Mover\PowerApps.AttachmentMover\bin\Debug\Microsoft.Extensions.Configuration.Json.xml
+C:\Elex Projects\Open source\Attachment Mover\ArchivalPowerApps\Attachment Mover\PowerApps.AttachmentMover\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Elex Projects\Open source\Attachment Mover\ArchivalPowerApps\Attachment Mover\PowerApps.AttachmentMover\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Elex Projects\Open source\Attachment Mover\ArchivalPowerApps\Attachment Mover\PowerApps.AttachmentMover\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\Elex Projects\Open source\Attachment Mover\ArchivalPowerApps\Attachment Mover\PowerApps.AttachmentMover\bin\Debug\Microsoft.Extensions.FileProviders.Physical.xml
+C:\Elex Projects\Open source\Attachment Mover\ArchivalPowerApps\Attachment Mover\PowerApps.AttachmentMover\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.xml
+C:\Elex Projects\Open source\Attachment Mover\ArchivalPowerApps\Attachment Mover\PowerApps.AttachmentMover\bin\Debug\Microsoft.Extensions.Hosting.Abstractions.xml
+C:\Elex Projects\Open source\Attachment Mover\ArchivalPowerApps\Attachment Mover\PowerApps.AttachmentMover\bin\Debug\Microsoft.Extensions.Http.xml
+C:\Elex Projects\Open source\Attachment Mover\ArchivalPowerApps\Attachment Mover\PowerApps.AttachmentMover\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Elex Projects\Open source\Attachment Mover\ArchivalPowerApps\Attachment Mover\PowerApps.AttachmentMover\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Elex Projects\Open source\Attachment Mover\ArchivalPowerApps\Attachment Mover\PowerApps.AttachmentMover\bin\Debug\Microsoft.Extensions.Logging.Configuration.xml
+C:\Elex Projects\Open source\Attachment Mover\ArchivalPowerApps\Attachment Mover\PowerApps.AttachmentMover\bin\Debug\Microsoft.Extensions.Logging.Console.xml
+C:\Elex Projects\Open source\Attachment Mover\ArchivalPowerApps\Attachment Mover\PowerApps.AttachmentMover\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Elex Projects\Open source\Attachment Mover\ArchivalPowerApps\Attachment Mover\PowerApps.AttachmentMover\bin\Debug\Microsoft.Extensions.Options.ConfigurationExtensions.xml
+C:\Elex Projects\Open source\Attachment Mover\ArchivalPowerApps\Attachment Mover\PowerApps.AttachmentMover\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Elex Projects\Open source\Attachment Mover\ArchivalPowerApps\Attachment Mover\PowerApps.AttachmentMover\bin\Debug\Microsoft.Extensions.WebEncoders.xml
+C:\Elex Projects\Open source\Attachment Mover\ArchivalPowerApps\Attachment Mover\PowerApps.AttachmentMover\bin\Debug\Microsoft.Graph.xml
+C:\Elex Projects\Open source\Attachment Mover\ArchivalPowerApps\Attachment Mover\PowerApps.AttachmentMover\bin\Debug\Microsoft.Graph.Core.xml
+C:\Elex Projects\Open source\Attachment Mover\ArchivalPowerApps\Attachment Mover\PowerApps.AttachmentMover\bin\Debug\Microsoft.Identity.Client.xml
+C:\Elex Projects\Open source\Attachment Mover\ArchivalPowerApps\Attachment Mover\PowerApps.AttachmentMover\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.xml
+C:\Elex Projects\Open source\Attachment Mover\ArchivalPowerApps\Attachment Mover\PowerApps.AttachmentMover\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.xml
+C:\Elex Projects\Open source\Attachment Mover\ArchivalPowerApps\Attachment Mover\PowerApps.AttachmentMover\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.Platform.xml
+C:\Elex Projects\Open source\Attachment Mover\ArchivalPowerApps\Attachment Mover\PowerApps.AttachmentMover\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Elex Projects\Open source\Attachment Mover\ArchivalPowerApps\Attachment Mover\PowerApps.AttachmentMover\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\Elex Projects\Open source\Attachment Mover\ArchivalPowerApps\Attachment Mover\PowerApps.AttachmentMover\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Elex Projects\Open source\Attachment Mover\ArchivalPowerApps\Attachment Mover\PowerApps.AttachmentMover\bin\Debug\Microsoft.Net.Http.Headers.xml
+C:\Elex Projects\Open source\Attachment Mover\ArchivalPowerApps\Attachment Mover\PowerApps.AttachmentMover\bin\Debug\Microsoft.WindowsAzure.Storage.pdb
+C:\Elex Projects\Open source\Attachment Mover\ArchivalPowerApps\Attachment Mover\PowerApps.AttachmentMover\bin\Debug\Microsoft.WindowsAzure.Storage.xml
+C:\Elex Projects\Open source\Attachment Mover\ArchivalPowerApps\Attachment Mover\PowerApps.AttachmentMover\bin\Debug\Microsoft.Xrm.Sdk.xml
+C:\Elex Projects\Open source\Attachment Mover\ArchivalPowerApps\Attachment Mover\PowerApps.AttachmentMover\bin\Debug\Microsoft.Xrm.Sdk.Deployment.xml
+C:\Elex Projects\Open source\Attachment Mover\ArchivalPowerApps\Attachment Mover\PowerApps.AttachmentMover\bin\Debug\Microsoft.Xrm.Sdk.Workflow.xml
+C:\Elex Projects\Open source\Attachment Mover\ArchivalPowerApps\Attachment Mover\PowerApps.AttachmentMover\bin\Debug\Microsoft.Xrm.Tooling.Connector.xml
+C:\Elex Projects\Open source\Attachment Mover\ArchivalPowerApps\Attachment Mover\PowerApps.AttachmentMover\bin\Debug\Newtonsoft.Json.xml
+C:\Elex Projects\Open source\Attachment Mover\ArchivalPowerApps\Attachment Mover\PowerApps.AttachmentMover\bin\Debug\NSubstitute.xml
+C:\Elex Projects\Open source\Attachment Mover\ArchivalPowerApps\Attachment Mover\PowerApps.AttachmentMover\bin\Debug\OfficeDevPnP.Core.xml
+C:\Elex Projects\Open source\Attachment Mover\ArchivalPowerApps\Attachment Mover\PowerApps.AttachmentMover\bin\Debug\PnP.Core.xml
+C:\Elex Projects\Open source\Attachment Mover\ArchivalPowerApps\Attachment Mover\PowerApps.AttachmentMover\bin\Debug\PnP.Framework.xml
+C:\Elex Projects\Open source\Attachment Mover\ArchivalPowerApps\Attachment Mover\PowerApps.AttachmentMover\bin\Debug\Serilog.xml
+C:\Elex Projects\Open source\Attachment Mover\ArchivalPowerApps\Attachment Mover\PowerApps.AttachmentMover\bin\Debug\Serilog.Extensions.Logging.xml
+C:\Elex Projects\Open source\Attachment Mover\ArchivalPowerApps\Attachment Mover\PowerApps.AttachmentMover\bin\Debug\Serilog.Sinks.EventLog.xml
+C:\Elex Projects\Open source\Attachment Mover\ArchivalPowerApps\Attachment Mover\PowerApps.AttachmentMover\bin\Debug\Serilog.Sinks.File.pdb
+C:\Elex Projects\Open source\Attachment Mover\ArchivalPowerApps\Attachment Mover\PowerApps.AttachmentMover\bin\Debug\Serilog.Sinks.File.xml
+C:\Elex Projects\Open source\Attachment Mover\ArchivalPowerApps\Attachment Mover\PowerApps.AttachmentMover\bin\Debug\System.Buffers.xml
+C:\Elex Projects\Open source\Attachment Mover\ArchivalPowerApps\Attachment Mover\PowerApps.AttachmentMover\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Elex Projects\Open source\Attachment Mover\ArchivalPowerApps\Attachment Mover\PowerApps.AttachmentMover\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Elex Projects\Open source\Attachment Mover\ArchivalPowerApps\Attachment Mover\PowerApps.AttachmentMover\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Elex Projects\Open source\Attachment Mover\ArchivalPowerApps\Attachment Mover\PowerApps.AttachmentMover\bin\Debug\System.IO.Packaging.xml
+C:\Elex Projects\Open source\Attachment Mover\ArchivalPowerApps\Attachment Mover\PowerApps.AttachmentMover\bin\Debug\System.Memory.xml
+C:\Elex Projects\Open source\Attachment Mover\ArchivalPowerApps\Attachment Mover\PowerApps.AttachmentMover\bin\Debug\System.Memory.Data.xml
+C:\Elex Projects\Open source\Attachment Mover\ArchivalPowerApps\Attachment Mover\PowerApps.AttachmentMover\bin\Debug\System.Net.Http.Formatting.xml
+C:\Elex Projects\Open source\Attachment Mover\ArchivalPowerApps\Attachment Mover\PowerApps.AttachmentMover\bin\Debug\System.Numerics.Vectors.xml
+C:\Elex Projects\Open source\Attachment Mover\ArchivalPowerApps\Attachment Mover\PowerApps.AttachmentMover\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Elex Projects\Open source\Attachment Mover\ArchivalPowerApps\Attachment Mover\PowerApps.AttachmentMover\bin\Debug\System.Security.AccessControl.xml
+C:\Elex Projects\Open source\Attachment Mover\ArchivalPowerApps\Attachment Mover\PowerApps.AttachmentMover\bin\Debug\System.Security.Permissions.xml
+C:\Elex Projects\Open source\Attachment Mover\ArchivalPowerApps\Attachment Mover\PowerApps.AttachmentMover\bin\Debug\System.Security.Principal.Windows.xml
+C:\Elex Projects\Open source\Attachment Mover\ArchivalPowerApps\Attachment Mover\PowerApps.AttachmentMover\bin\Debug\System.Spatial.xml
+C:\Elex Projects\Open source\Attachment Mover\ArchivalPowerApps\Attachment Mover\PowerApps.AttachmentMover\bin\Debug\System.Text.Encodings.Web.xml
+C:\Elex Projects\Open source\Attachment Mover\ArchivalPowerApps\Attachment Mover\PowerApps.AttachmentMover\bin\Debug\System.Text.Json.xml
+C:\Elex Projects\Open source\Attachment Mover\ArchivalPowerApps\Attachment Mover\PowerApps.AttachmentMover\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Elex Projects\Open source\Attachment Mover\ArchivalPowerApps\Attachment Mover\PowerApps.AttachmentMover\bin\Debug\System.ValueTuple.xml
+C:\Elex Projects\Open source\Attachment Mover\ArchivalPowerApps\Attachment Mover\PowerApps.AttachmentMover\bin\Debug\System.Web.Http.xml
+C:\Elex Projects\Open source\Attachment Mover\ArchivalPowerApps\Attachment Mover\PowerApps.AttachmentMover\bin\Debug\TimeZoneConverter.xml
+C:\Elex Projects\Open source\Attachment Mover\ArchivalPowerApps\Attachment Mover\PowerApps.AttachmentMover\bin\Debug\Microsoft.Activities.xml
+C:\Elex Projects\Open source\Attachment Mover\ArchivalPowerApps\Attachment Mover\PowerApps.AttachmentMover\bin\Debug\de\Microsoft.Data.Edm.resources.dll
+C:\Elex Projects\Open source\Attachment Mover\ArchivalPowerApps\Attachment Mover\PowerApps.AttachmentMover\bin\Debug\es\Microsoft.Data.Edm.resources.dll
+C:\Elex Projects\Open source\Attachment Mover\ArchivalPowerApps\Attachment Mover\PowerApps.AttachmentMover\bin\Debug\fr\Microsoft.Data.Edm.resources.dll
+C:\Elex Projects\Open source\Attachment Mover\ArchivalPowerApps\Attachment Mover\PowerApps.AttachmentMover\bin\Debug\it\Microsoft.Data.Edm.resources.dll
+C:\Elex Projects\Open source\Attachment Mover\ArchivalPowerApps\Attachment Mover\PowerApps.AttachmentMover\bin\Debug\ja\Microsoft.Data.Edm.resources.dll
+C:\Elex Projects\Open source\Attachment Mover\ArchivalPowerApps\Attachment Mover\PowerApps.AttachmentMover\bin\Debug\ko\Microsoft.Data.Edm.resources.dll
+C:\Elex Projects\Open source\Attachment Mover\ArchivalPowerApps\Attachment Mover\PowerApps.AttachmentMover\bin\Debug\ru\Microsoft.Data.Edm.resources.dll
+C:\Elex Projects\Open source\Attachment Mover\ArchivalPowerApps\Attachment Mover\PowerApps.AttachmentMover\bin\Debug\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Elex Projects\Open source\Attachment Mover\ArchivalPowerApps\Attachment Mover\PowerApps.AttachmentMover\bin\Debug\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Elex Projects\Open source\Attachment Mover\ArchivalPowerApps\Attachment Mover\PowerApps.AttachmentMover\bin\Debug\de\Microsoft.Data.OData.resources.dll
+C:\Elex Projects\Open source\Attachment Mover\ArchivalPowerApps\Attachment Mover\PowerApps.AttachmentMover\bin\Debug\es\Microsoft.Data.OData.resources.dll
+C:\Elex Projects\Open source\Attachment Mover\ArchivalPowerApps\Attachment Mover\PowerApps.AttachmentMover\bin\Debug\fr\Microsoft.Data.OData.resources.dll
+C:\Elex Projects\Open source\Attachment Mover\ArchivalPowerApps\Attachment Mover\PowerApps.AttachmentMover\bin\Debug\it\Microsoft.Data.OData.resources.dll
+C:\Elex Projects\Open source\Attachment Mover\ArchivalPowerApps\Attachment Mover\PowerApps.AttachmentMover\bin\Debug\ja\Microsoft.Data.OData.resources.dll
+C:\Elex Projects\Open source\Attachment Mover\ArchivalPowerApps\Attachment Mover\PowerApps.AttachmentMover\bin\Debug\ko\Microsoft.Data.OData.resources.dll
+C:\Elex Projects\Open source\Attachment Mover\ArchivalPowerApps\Attachment Mover\PowerApps.AttachmentMover\bin\Debug\ru\Microsoft.Data.OData.resources.dll
+C:\Elex Projects\Open source\Attachment Mover\ArchivalPowerApps\Attachment Mover\PowerApps.AttachmentMover\bin\Debug\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Elex Projects\Open source\Attachment Mover\ArchivalPowerApps\Attachment Mover\PowerApps.AttachmentMover\bin\Debug\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Elex Projects\Open source\Attachment Mover\ArchivalPowerApps\Attachment Mover\PowerApps.AttachmentMover\bin\Debug\de\Microsoft.Data.Services.Client.resources.dll
+C:\Elex Projects\Open source\Attachment Mover\ArchivalPowerApps\Attachment Mover\PowerApps.AttachmentMover\bin\Debug\es\Microsoft.Data.Services.Client.resources.dll
+C:\Elex Projects\Open source\Attachment Mover\ArchivalPowerApps\Attachment Mover\PowerApps.AttachmentMover\bin\Debug\fr\Microsoft.Data.Services.Client.resources.dll
+C:\Elex Projects\Open source\Attachment Mover\ArchivalPowerApps\Attachment Mover\PowerApps.AttachmentMover\bin\Debug\it\Microsoft.Data.Services.Client.resources.dll
+C:\Elex Projects\Open source\Attachment Mover\ArchivalPowerApps\Attachment Mover\PowerApps.AttachmentMover\bin\Debug\ja\Microsoft.Data.Services.Client.resources.dll
+C:\Elex Projects\Open source\Attachment Mover\ArchivalPowerApps\Attachment Mover\PowerApps.AttachmentMover\bin\Debug\ko\Microsoft.Data.Services.Client.resources.dll
+C:\Elex Projects\Open source\Attachment Mover\ArchivalPowerApps\Attachment Mover\PowerApps.AttachmentMover\bin\Debug\ru\Microsoft.Data.Services.Client.resources.dll
+C:\Elex Projects\Open source\Attachment Mover\ArchivalPowerApps\Attachment Mover\PowerApps.AttachmentMover\bin\Debug\zh-Hans\Microsoft.Data.Services.Client.resources.dll
+C:\Elex Projects\Open source\Attachment Mover\ArchivalPowerApps\Attachment Mover\PowerApps.AttachmentMover\bin\Debug\zh-Hant\Microsoft.Data.Services.Client.resources.dll
+C:\Elex Projects\Open source\Attachment Mover\ArchivalPowerApps\Attachment Mover\PowerApps.AttachmentMover\bin\Debug\de\System.Spatial.resources.dll
+C:\Elex Projects\Open source\Attachment Mover\ArchivalPowerApps\Attachment Mover\PowerApps.AttachmentMover\bin\Debug\es\System.Spatial.resources.dll
+C:\Elex Projects\Open source\Attachment Mover\ArchivalPowerApps\Attachment Mover\PowerApps.AttachmentMover\bin\Debug\fr\System.Spatial.resources.dll
+C:\Elex Projects\Open source\Attachment Mover\ArchivalPowerApps\Attachment Mover\PowerApps.AttachmentMover\bin\Debug\it\System.Spatial.resources.dll
+C:\Elex Projects\Open source\Attachment Mover\ArchivalPowerApps\Attachment Mover\PowerApps.AttachmentMover\bin\Debug\ja\System.Spatial.resources.dll
+C:\Elex Projects\Open source\Attachment Mover\ArchivalPowerApps\Attachment Mover\PowerApps.AttachmentMover\bin\Debug\ko\System.Spatial.resources.dll
+C:\Elex Projects\Open source\Attachment Mover\ArchivalPowerApps\Attachment Mover\PowerApps.AttachmentMover\bin\Debug\ru\System.Spatial.resources.dll
+C:\Elex Projects\Open source\Attachment Mover\ArchivalPowerApps\Attachment Mover\PowerApps.AttachmentMover\bin\Debug\zh-Hans\System.Spatial.resources.dll
+C:\Elex Projects\Open source\Attachment Mover\ArchivalPowerApps\Attachment Mover\PowerApps.AttachmentMover\bin\Debug\zh-Hant\System.Spatial.resources.dll
+C:\Elex Projects\Open source\Attachment Mover\ArchivalPowerApps\Attachment Mover\PowerApps.AttachmentMover\obj\Debug\PowerApps.AttachmentMover.csproj.AssemblyReference.cache
+C:\Elex Projects\Open source\Attachment Mover\ArchivalPowerApps\Attachment Mover\PowerApps.AttachmentMover\obj\Debug\PowerApps.AttachmentMover.exe.config
+C:\Elex Projects\Open source\Attachment Mover\ArchivalPowerApps\Attachment Mover\PowerApps.AttachmentMover\obj\Debug\AttachmentMover.Properties.Resources.resources
+C:\Elex Projects\Open source\Attachment Mover\ArchivalPowerApps\Attachment Mover\PowerApps.AttachmentMover\obj\Debug\AttachmentMover.Properties.Resources.es-ES.resources
+C:\Elex Projects\Open source\Attachment Mover\ArchivalPowerApps\Attachment Mover\PowerApps.AttachmentMover\obj\Debug\AttachmentMover.Properties.Resources.hi-IN.resources
+C:\Elex Projects\Open source\Attachment Mover\ArchivalPowerApps\Attachment Mover\PowerApps.AttachmentMover\obj\Debug\PowerApps.AttachmentMover.csproj.GenerateResource.cache
+C:\Elex Projects\Open source\Attachment Mover\ArchivalPowerApps\Attachment Mover\PowerApps.AttachmentMover\obj\Debug\PowerApps.AttachmentMover.csproj.CoreCompileInputs.cache
+C:\Elex Projects\Open source\Attachment Mover\ArchivalPowerApps\Attachment Mover\PowerApps.AttachmentMover\obj\Debug\es-ES\PowerApps.AttachmentMover.resources.dll
+C:\Elex Projects\Open source\Attachment Mover\ArchivalPowerApps\Attachment Mover\PowerApps.AttachmentMover\obj\Debug\hi-IN\PowerApps.AttachmentMover.resources.dll
+C:\Elex Projects\Open source\Attachment Mover\ArchivalPowerApps\Attachment Mover\PowerApps.AttachmentMover\obj\Debug\PowerApps.AttachmentMover.csproj.CopyComplete
+C:\Elex Projects\Open source\Attachment Mover\ArchivalPowerApps\Attachment Mover\PowerApps.AttachmentMover\obj\Debug\PowerApps.AttachmentMover.exe
+C:\Elex Projects\Open source\Attachment Mover\ArchivalPowerApps\Attachment Mover\PowerApps.AttachmentMover\obj\Debug\PowerApps.AttachmentMover.pdb
+C:\Elex Projects\Open source\Elex Attachment Mover\Attachmentmover\Console App\PowerApps.AttachmentMover\bin\Debug\PowerApps.AttachmentMover.exe.config
+C:\Elex Projects\Open source\Elex Attachment Mover\Attachmentmover\Console App\PowerApps.AttachmentMover\bin\Debug\PowerApps.AttachmentMover.exe
+C:\Elex Projects\Open source\Elex Attachment Mover\Attachmentmover\Console App\PowerApps.AttachmentMover\bin\Debug\PowerApps.AttachmentMover.pdb
+C:\Elex Projects\Open source\Elex Attachment Mover\Attachmentmover\Console App\PowerApps.AttachmentMover\bin\Debug\es-ES\PowerApps.AttachmentMover.resources.dll
+C:\Elex Projects\Open source\Elex Attachment Mover\Attachmentmover\Console App\PowerApps.AttachmentMover\bin\Debug\hi-IN\PowerApps.AttachmentMover.resources.dll
+C:\Elex Projects\Open source\Elex Attachment Mover\Attachmentmover\Console App\PowerApps.AttachmentMover\bin\Debug\AngleSharp.Css.dll
+C:\Elex Projects\Open source\Elex Attachment Mover\Attachmentmover\Console App\PowerApps.AttachmentMover\bin\Debug\AngleSharp.dll
+C:\Elex Projects\Open source\Elex Attachment Mover\Attachmentmover\Console App\PowerApps.AttachmentMover\bin\Debug\Azure.Core.dll
+C:\Elex Projects\Open source\Elex Attachment Mover\Attachmentmover\Console App\PowerApps.AttachmentMover\bin\Debug\Azure.Storage.Blobs.dll
+C:\Elex Projects\Open source\Elex Attachment Mover\Attachmentmover\Console App\PowerApps.AttachmentMover\bin\Debug\Azure.Storage.Common.dll
+C:\Elex Projects\Open source\Elex Attachment Mover\Attachmentmover\Console App\PowerApps.AttachmentMover\bin\Debug\Castle.Core.dll
+C:\Elex Projects\Open source\Elex Attachment Mover\Attachmentmover\Console App\PowerApps.AttachmentMover\bin\Debug\CrashReporter.NET.dll
+C:\Elex Projects\Open source\Elex Attachment Mover\Attachmentmover\Console App\PowerApps.AttachmentMover\bin\Debug\Extensions.Logging.NSubstitute.dll
+C:\Elex Projects\Open source\Elex Attachment Mover\Attachmentmover\Console App\PowerApps.AttachmentMover\bin\Debug\Microsoft.ApplicationInsights.dll
+C:\Elex Projects\Open source\Elex Attachment Mover\Attachmentmover\Console App\PowerApps.AttachmentMover\bin\Debug\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\Elex Projects\Open source\Elex Attachment Mover\Attachmentmover\Console App\PowerApps.AttachmentMover\bin\Debug\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\Elex Projects\Open source\Elex Attachment Mover\Attachmentmover\Console App\PowerApps.AttachmentMover\bin\Debug\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Elex Projects\Open source\Elex Attachment Mover\Attachmentmover\Console App\PowerApps.AttachmentMover\bin\Debug\Microsoft.AspNetCore.Http.Extensions.dll
+C:\Elex Projects\Open source\Elex Attachment Mover\Attachmentmover\Console App\PowerApps.AttachmentMover\bin\Debug\Microsoft.AspNetCore.Http.Features.dll
+C:\Elex Projects\Open source\Elex Attachment Mover\Attachmentmover\Console App\PowerApps.AttachmentMover\bin\Debug\Microsoft.AspNetCore.StaticFiles.dll
+C:\Elex Projects\Open source\Elex Attachment Mover\Attachmentmover\Console App\PowerApps.AttachmentMover\bin\Debug\Microsoft.Azure.ActiveDirectory.GraphClient.dll
+C:\Elex Projects\Open source\Elex Attachment Mover\Attachmentmover\Console App\PowerApps.AttachmentMover\bin\Debug\Microsoft.Azure.KeyVault.Core.dll
+C:\Elex Projects\Open source\Elex Attachment Mover\Attachmentmover\Console App\PowerApps.AttachmentMover\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Elex Projects\Open source\Elex Attachment Mover\Attachmentmover\Console App\PowerApps.AttachmentMover\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Elex Projects\Open source\Elex Attachment Mover\Attachmentmover\Console App\PowerApps.AttachmentMover\bin\Debug\Microsoft.BusinessData.dll
+C:\Elex Projects\Open source\Elex Attachment Mover\Attachmentmover\Console App\PowerApps.AttachmentMover\bin\Debug\Microsoft.Crm.Sdk.Proxy.dll
+C:\Elex Projects\Open source\Elex Attachment Mover\Attachmentmover\Console App\PowerApps.AttachmentMover\bin\Debug\Microsoft.Data.Edm.dll
+C:\Elex Projects\Open source\Elex Attachment Mover\Attachmentmover\Console App\PowerApps.AttachmentMover\bin\Debug\Microsoft.Data.OData.dll
+C:\Elex Projects\Open source\Elex Attachment Mover\Attachmentmover\Console App\PowerApps.AttachmentMover\bin\Debug\Microsoft.Data.Services.Client.dll
+C:\Elex Projects\Open source\Elex Attachment Mover\Attachmentmover\Console App\PowerApps.AttachmentMover\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Elex Projects\Open source\Elex Attachment Mover\Attachmentmover\Console App\PowerApps.AttachmentMover\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+C:\Elex Projects\Open source\Elex Attachment Mover\Attachmentmover\Console App\PowerApps.AttachmentMover\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Elex Projects\Open source\Elex Attachment Mover\Attachmentmover\Console App\PowerApps.AttachmentMover\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+C:\Elex Projects\Open source\Elex Attachment Mover\Attachmentmover\Console App\PowerApps.AttachmentMover\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Elex Projects\Open source\Elex Attachment Mover\Attachmentmover\Console App\PowerApps.AttachmentMover\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Elex Projects\Open source\Elex Attachment Mover\Attachmentmover\Console App\PowerApps.AttachmentMover\bin\Debug\Microsoft.Extensions.Configuration.Json.dll
+C:\Elex Projects\Open source\Elex Attachment Mover\Attachmentmover\Console App\PowerApps.AttachmentMover\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Elex Projects\Open source\Elex Attachment Mover\Attachmentmover\Console App\PowerApps.AttachmentMover\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Elex Projects\Open source\Elex Attachment Mover\Attachmentmover\Console App\PowerApps.AttachmentMover\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Elex Projects\Open source\Elex Attachment Mover\Attachmentmover\Console App\PowerApps.AttachmentMover\bin\Debug\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Elex Projects\Open source\Elex Attachment Mover\Attachmentmover\Console App\PowerApps.AttachmentMover\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Elex Projects\Open source\Elex Attachment Mover\Attachmentmover\Console App\PowerApps.AttachmentMover\bin\Debug\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Elex Projects\Open source\Elex Attachment Mover\Attachmentmover\Console App\PowerApps.AttachmentMover\bin\Debug\Microsoft.Extensions.Http.dll
+C:\Elex Projects\Open source\Elex Attachment Mover\Attachmentmover\Console App\PowerApps.AttachmentMover\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Elex Projects\Open source\Elex Attachment Mover\Attachmentmover\Console App\PowerApps.AttachmentMover\bin\Debug\Microsoft.Extensions.Logging.Configuration.dll
+C:\Elex Projects\Open source\Elex Attachment Mover\Attachmentmover\Console App\PowerApps.AttachmentMover\bin\Debug\Microsoft.Extensions.Logging.Console.dll
+C:\Elex Projects\Open source\Elex Attachment Mover\Attachmentmover\Console App\PowerApps.AttachmentMover\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Elex Projects\Open source\Elex Attachment Mover\Attachmentmover\Console App\PowerApps.AttachmentMover\bin\Debug\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Elex Projects\Open source\Elex Attachment Mover\Attachmentmover\Console App\PowerApps.AttachmentMover\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Elex Projects\Open source\Elex Attachment Mover\Attachmentmover\Console App\PowerApps.AttachmentMover\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Elex Projects\Open source\Elex Attachment Mover\Attachmentmover\Console App\PowerApps.AttachmentMover\bin\Debug\Microsoft.Extensions.WebEncoders.dll
+C:\Elex Projects\Open source\Elex Attachment Mover\Attachmentmover\Console App\PowerApps.AttachmentMover\bin\Debug\Microsoft.Graph.Core.dll
+C:\Elex Projects\Open source\Elex Attachment Mover\Attachmentmover\Console App\PowerApps.AttachmentMover\bin\Debug\Microsoft.Graph.dll
+C:\Elex Projects\Open source\Elex Attachment Mover\Attachmentmover\Console App\PowerApps.AttachmentMover\bin\Debug\Microsoft.Identity.Client.dll
+C:\Elex Projects\Open source\Elex Attachment Mover\Attachmentmover\Console App\PowerApps.AttachmentMover\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Elex Projects\Open source\Elex Attachment Mover\Attachmentmover\Console App\PowerApps.AttachmentMover\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+C:\Elex Projects\Open source\Elex Attachment Mover\Attachmentmover\Console App\PowerApps.AttachmentMover\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.Platform.dll
+C:\Elex Projects\Open source\Elex Attachment Mover\Attachmentmover\Console App\PowerApps.AttachmentMover\bin\Debug\microsoft.identitymodel.dll
+C:\Elex Projects\Open source\Elex Attachment Mover\Attachmentmover\Console App\PowerApps.AttachmentMover\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Elex Projects\Open source\Elex Attachment Mover\Attachmentmover\Console App\PowerApps.AttachmentMover\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Elex Projects\Open source\Elex Attachment Mover\Attachmentmover\Console App\PowerApps.AttachmentMover\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Elex Projects\Open source\Elex Attachment Mover\Attachmentmover\Console App\PowerApps.AttachmentMover\bin\Debug\Microsoft.Net.Http.Headers.dll
+C:\Elex Projects\Open source\Elex Attachment Mover\Attachmentmover\Console App\PowerApps.AttachmentMover\bin\Debug\Microsoft.Office.Client.Education.dll
+C:\Elex Projects\Open source\Elex Attachment Mover\Attachmentmover\Console App\PowerApps.AttachmentMover\bin\Debug\Microsoft.Office.Client.Policy.dll
+C:\Elex Projects\Open source\Elex Attachment Mover\Attachmentmover\Console App\PowerApps.AttachmentMover\bin\Debug\Microsoft.Office.Client.TranslationServices.dll
+C:\Elex Projects\Open source\Elex Attachment Mover\Attachmentmover\Console App\PowerApps.AttachmentMover\bin\Debug\Microsoft.Office.DocumentManagement.dll
+C:\Elex Projects\Open source\Elex Attachment Mover\Attachmentmover\Console App\PowerApps.AttachmentMover\bin\Debug\Microsoft.Office.Policy.dll
+C:\Elex Projects\Open source\Elex Attachment Mover\Attachmentmover\Console App\PowerApps.AttachmentMover\bin\Debug\Microsoft.Office.SecureStoreService.dll
+C:\Elex Projects\Open source\Elex Attachment Mover\Attachmentmover\Console App\PowerApps.AttachmentMover\bin\Debug\Microsoft.Office.SecureStoreService.Server.Security.dll
+C:\Elex Projects\Open source\Elex Attachment Mover\Attachmentmover\Console App\PowerApps.AttachmentMover\bin\Debug\Microsoft.Office.Server.dll
+C:\Elex Projects\Open source\Elex Attachment Mover\Attachmentmover\Console App\PowerApps.AttachmentMover\bin\Debug\Microsoft.Office.Server.Search.dll
+C:\Elex Projects\Open source\Elex Attachment Mover\Attachmentmover\Console App\PowerApps.AttachmentMover\bin\Debug\Microsoft.Office.Server.UserProfiles.dll
+C:\Elex Projects\Open source\Elex Attachment Mover\Attachmentmover\Console App\PowerApps.AttachmentMover\bin\Debug\Microsoft.Office.SharePoint.Tools.dll
+C:\Elex Projects\Open source\Elex Attachment Mover\Attachmentmover\Console App\PowerApps.AttachmentMover\bin\Debug\Microsoft.Online.SharePoint.Client.Tenant.dll
+C:\Elex Projects\Open source\Elex Attachment Mover\Attachmentmover\Console App\PowerApps.AttachmentMover\bin\Debug\Microsoft.ProjectServer.Client.dll
+C:\Elex Projects\Open source\Elex Attachment Mover\Attachmentmover\Console App\PowerApps.AttachmentMover\bin\Debug\Microsoft.Rest.ClientRuntime.dll
+C:\Elex Projects\Open source\Elex Attachment Mover\Attachmentmover\Console App\PowerApps.AttachmentMover\bin\Debug\Microsoft.SharePoint.ApplicationPages.Administration.dll
+C:\Elex Projects\Open source\Elex Attachment Mover\Attachmentmover\Console App\PowerApps.AttachmentMover\bin\Debug\Microsoft.SharePoint.ApplicationPages.dll
+C:\Elex Projects\Open source\Elex Attachment Mover\Attachmentmover\Console App\PowerApps.AttachmentMover\bin\Debug\Microsoft.SharePoint.Client.dll
+C:\Elex Projects\Open source\Elex Attachment Mover\Attachmentmover\Console App\PowerApps.AttachmentMover\bin\Debug\Microsoft.SharePoint.Client.DocumentManagement.dll
+C:\Elex Projects\Open source\Elex Attachment Mover\Attachmentmover\Console App\PowerApps.AttachmentMover\bin\Debug\Microsoft.SharePoint.Client.Publishing.dll
+C:\Elex Projects\Open source\Elex Attachment Mover\Attachmentmover\Console App\PowerApps.AttachmentMover\bin\Debug\Microsoft.SharePoint.Client.Runtime.dll
+C:\Elex Projects\Open source\Elex Attachment Mover\Attachmentmover\Console App\PowerApps.AttachmentMover\bin\Debug\Microsoft.SharePoint.Client.Search.Applications.dll
+C:\Elex Projects\Open source\Elex Attachment Mover\Attachmentmover\Console App\PowerApps.AttachmentMover\bin\Debug\Microsoft.SharePoint.Client.Search.dll
+C:\Elex Projects\Open source\Elex Attachment Mover\Attachmentmover\Console App\PowerApps.AttachmentMover\bin\Debug\Microsoft.SharePoint.Client.ServerRuntime.dll
+C:\Elex Projects\Open source\Elex Attachment Mover\Attachmentmover\Console App\PowerApps.AttachmentMover\bin\Debug\Microsoft.SharePoint.Client.Taxonomy.dll
+C:\Elex Projects\Open source\Elex Attachment Mover\Attachmentmover\Console App\PowerApps.AttachmentMover\bin\Debug\Microsoft.SharePoint.Client.UserProfiles.dll
+C:\Elex Projects\Open source\Elex Attachment Mover\Attachmentmover\Console App\PowerApps.AttachmentMover\bin\Debug\Microsoft.SharePoint.Client.WorkflowServices.dll
+C:\Elex Projects\Open source\Elex Attachment Mover\Attachmentmover\Console App\PowerApps.AttachmentMover\bin\Debug\Microsoft.SharePoint.DesignTime.Activities.dll
+C:\Elex Projects\Open source\Elex Attachment Mover\Attachmentmover\Console App\PowerApps.AttachmentMover\bin\Debug\Microsoft.SharePoint.dll
+C:\Elex Projects\Open source\Elex Attachment Mover\Attachmentmover\Console App\PowerApps.AttachmentMover\bin\Debug\Microsoft.SharePoint.Portal.dll
+C:\Elex Projects\Open source\Elex Attachment Mover\Attachmentmover\Console App\PowerApps.AttachmentMover\bin\Debug\Microsoft.SharePoint.Publishing.dll
+C:\Elex Projects\Open source\Elex Attachment Mover\Attachmentmover\Console App\PowerApps.AttachmentMover\bin\Debug\Microsoft.SharePoint.Security.dll
+C:\Elex Projects\Open source\Elex Attachment Mover\Attachmentmover\Console App\PowerApps.AttachmentMover\bin\Debug\Microsoft.SharePoint.Taxonomy.dll
+C:\Elex Projects\Open source\Elex Attachment Mover\Attachmentmover\Console App\PowerApps.AttachmentMover\bin\Debug\Microsoft.Sharepoint.WorkflowActions.dll
+C:\Elex Projects\Open source\Elex Attachment Mover\Attachmentmover\Console App\PowerApps.AttachmentMover\bin\Debug\Microsoft.WindowsAzure.Storage.dll
+C:\Elex Projects\Open source\Elex Attachment Mover\Attachmentmover\Console App\PowerApps.AttachmentMover\bin\Debug\Microsoft.Xrm.Sdk.Deployment.dll
+C:\Elex Projects\Open source\Elex Attachment Mover\Attachmentmover\Console App\PowerApps.AttachmentMover\bin\Debug\Microsoft.Xrm.Sdk.dll
+C:\Elex Projects\Open source\Elex Attachment Mover\Attachmentmover\Console App\PowerApps.AttachmentMover\bin\Debug\Microsoft.Xrm.Sdk.Workflow.dll
+C:\Elex Projects\Open source\Elex Attachment Mover\Attachmentmover\Console App\PowerApps.AttachmentMover\bin\Debug\Microsoft.Xrm.Tooling.Connector.dll
+C:\Elex Projects\Open source\Elex Attachment Mover\Attachmentmover\Console App\PowerApps.AttachmentMover\bin\Debug\Newtonsoft.Json.dll
+C:\Elex Projects\Open source\Elex Attachment Mover\Attachmentmover\Console App\PowerApps.AttachmentMover\bin\Debug\NSubstitute.dll
+C:\Elex Projects\Open source\Elex Attachment Mover\Attachmentmover\Console App\PowerApps.AttachmentMover\bin\Debug\OfficeDevPnP.Core.dll
+C:\Elex Projects\Open source\Elex Attachment Mover\Attachmentmover\Console App\PowerApps.AttachmentMover\bin\Debug\PnP.Core.dll
+C:\Elex Projects\Open source\Elex Attachment Mover\Attachmentmover\Console App\PowerApps.AttachmentMover\bin\Debug\PnP.Framework.dll
+C:\Elex Projects\Open source\Elex Attachment Mover\Attachmentmover\Console App\PowerApps.AttachmentMover\bin\Debug\Portable.Xaml.dll
+C:\Elex Projects\Open source\Elex Attachment Mover\Attachmentmover\Console App\PowerApps.AttachmentMover\bin\Debug\Serilog.dll
+C:\Elex Projects\Open source\Elex Attachment Mover\Attachmentmover\Console App\PowerApps.AttachmentMover\bin\Debug\Serilog.Extensions.Logging.dll
+C:\Elex Projects\Open source\Elex Attachment Mover\Attachmentmover\Console App\PowerApps.AttachmentMover\bin\Debug\Serilog.Sinks.EventLog.dll
+C:\Elex Projects\Open source\Elex Attachment Mover\Attachmentmover\Console App\PowerApps.AttachmentMover\bin\Debug\Serilog.Sinks.File.dll
+C:\Elex Projects\Open source\Elex Attachment Mover\Attachmentmover\Console App\PowerApps.AttachmentMover\bin\Debug\SharePointPnP.IdentityModel.Extensions.dll
+C:\Elex Projects\Open source\Elex Attachment Mover\Attachmentmover\Console App\PowerApps.AttachmentMover\bin\Debug\System.Buffers.dll
+C:\Elex Projects\Open source\Elex Attachment Mover\Attachmentmover\Console App\PowerApps.AttachmentMover\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Elex Projects\Open source\Elex Attachment Mover\Attachmentmover\Console App\PowerApps.AttachmentMover\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Elex Projects\Open source\Elex Attachment Mover\Attachmentmover\Console App\PowerApps.AttachmentMover\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Elex Projects\Open source\Elex Attachment Mover\Attachmentmover\Console App\PowerApps.AttachmentMover\bin\Debug\System.IO.Packaging.dll
+C:\Elex Projects\Open source\Elex Attachment Mover\Attachmentmover\Console App\PowerApps.AttachmentMover\bin\Debug\System.Memory.Data.dll
+C:\Elex Projects\Open source\Elex Attachment Mover\Attachmentmover\Console App\PowerApps.AttachmentMover\bin\Debug\System.Memory.dll
+C:\Elex Projects\Open source\Elex Attachment Mover\Attachmentmover\Console App\PowerApps.AttachmentMover\bin\Debug\System.Net.Http.Formatting.dll
+C:\Elex Projects\Open source\Elex Attachment Mover\Attachmentmover\Console App\PowerApps.AttachmentMover\bin\Debug\System.Numerics.Vectors.dll
+C:\Elex Projects\Open source\Elex Attachment Mover\Attachmentmover\Console App\PowerApps.AttachmentMover\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Elex Projects\Open source\Elex Attachment Mover\Attachmentmover\Console App\PowerApps.AttachmentMover\bin\Debug\System.Security.AccessControl.dll
+C:\Elex Projects\Open source\Elex Attachment Mover\Attachmentmover\Console App\PowerApps.AttachmentMover\bin\Debug\System.Security.Permissions.dll
+C:\Elex Projects\Open source\Elex Attachment Mover\Attachmentmover\Console App\PowerApps.AttachmentMover\bin\Debug\System.Security.Principal.Windows.dll
+C:\Elex Projects\Open source\Elex Attachment Mover\Attachmentmover\Console App\PowerApps.AttachmentMover\bin\Debug\System.Spatial.dll
+C:\Elex Projects\Open source\Elex Attachment Mover\Attachmentmover\Console App\PowerApps.AttachmentMover\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Elex Projects\Open source\Elex Attachment Mover\Attachmentmover\Console App\PowerApps.AttachmentMover\bin\Debug\System.Text.Encodings.Web.dll
+C:\Elex Projects\Open source\Elex Attachment Mover\Attachmentmover\Console App\PowerApps.AttachmentMover\bin\Debug\System.Text.Json.dll
+C:\Elex Projects\Open source\Elex Attachment Mover\Attachmentmover\Console App\PowerApps.AttachmentMover\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Elex Projects\Open source\Elex Attachment Mover\Attachmentmover\Console App\PowerApps.AttachmentMover\bin\Debug\System.ValueTuple.dll
+C:\Elex Projects\Open source\Elex Attachment Mover\Attachmentmover\Console App\PowerApps.AttachmentMover\bin\Debug\System.Web.Http.dll
+C:\Elex Projects\Open source\Elex Attachment Mover\Attachmentmover\Console App\PowerApps.AttachmentMover\bin\Debug\TimeZoneConverter.dll
+C:\Elex Projects\Open source\Elex Attachment Mover\Attachmentmover\Console App\PowerApps.AttachmentMover\bin\Debug\Microsoft.mshtml.dll
+C:\Elex Projects\Open source\Elex Attachment Mover\Attachmentmover\Console App\PowerApps.AttachmentMover\bin\Debug\Microsoft.Web.Administration.dll
+C:\Elex Projects\Open source\Elex Attachment Mover\Attachmentmover\Console App\PowerApps.AttachmentMover\bin\Debug\Microsoft.Activities.dll
+C:\Elex Projects\Open source\Elex Attachment Mover\Attachmentmover\Console App\PowerApps.AttachmentMover\bin\Debug\AngleSharp.xml
+C:\Elex Projects\Open source\Elex Attachment Mover\Attachmentmover\Console App\PowerApps.AttachmentMover\bin\Debug\AngleSharp.Css.xml
+C:\Elex Projects\Open source\Elex Attachment Mover\Attachmentmover\Console App\PowerApps.AttachmentMover\bin\Debug\Azure.Core.xml
+C:\Elex Projects\Open source\Elex Attachment Mover\Attachmentmover\Console App\PowerApps.AttachmentMover\bin\Debug\Azure.Storage.Blobs.xml
+C:\Elex Projects\Open source\Elex Attachment Mover\Attachmentmover\Console App\PowerApps.AttachmentMover\bin\Debug\Azure.Storage.Common.xml
+C:\Elex Projects\Open source\Elex Attachment Mover\Attachmentmover\Console App\PowerApps.AttachmentMover\bin\Debug\Castle.Core.xml
+C:\Elex Projects\Open source\Elex Attachment Mover\Attachmentmover\Console App\PowerApps.AttachmentMover\bin\Debug\CrashReporter.NET.pdb
+C:\Elex Projects\Open source\Elex Attachment Mover\Attachmentmover\Console App\PowerApps.AttachmentMover\bin\Debug\CrashReporter.NET.xml
+C:\Elex Projects\Open source\Elex Attachment Mover\Attachmentmover\Console App\PowerApps.AttachmentMover\bin\Debug\CrashReporter.NET.dll.config
+C:\Elex Projects\Open source\Elex Attachment Mover\Attachmentmover\Console App\PowerApps.AttachmentMover\bin\Debug\Microsoft.ApplicationInsights.pdb
+C:\Elex Projects\Open source\Elex Attachment Mover\Attachmentmover\Console App\PowerApps.AttachmentMover\bin\Debug\Microsoft.ApplicationInsights.xml
+C:\Elex Projects\Open source\Elex Attachment Mover\Attachmentmover\Console App\PowerApps.AttachmentMover\bin\Debug\Microsoft.AspNetCore.Hosting.Abstractions.xml
+C:\Elex Projects\Open source\Elex Attachment Mover\Attachmentmover\Console App\PowerApps.AttachmentMover\bin\Debug\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+C:\Elex Projects\Open source\Elex Attachment Mover\Attachmentmover\Console App\PowerApps.AttachmentMover\bin\Debug\Microsoft.AspNetCore.Http.Abstractions.xml
+C:\Elex Projects\Open source\Elex Attachment Mover\Attachmentmover\Console App\PowerApps.AttachmentMover\bin\Debug\Microsoft.AspNetCore.Http.Extensions.xml
+C:\Elex Projects\Open source\Elex Attachment Mover\Attachmentmover\Console App\PowerApps.AttachmentMover\bin\Debug\Microsoft.AspNetCore.Http.Features.xml
+C:\Elex Projects\Open source\Elex Attachment Mover\Attachmentmover\Console App\PowerApps.AttachmentMover\bin\Debug\Microsoft.AspNetCore.StaticFiles.xml
+C:\Elex Projects\Open source\Elex Attachment Mover\Attachmentmover\Console App\PowerApps.AttachmentMover\bin\Debug\Microsoft.Azure.KeyVault.Core.xml
+C:\Elex Projects\Open source\Elex Attachment Mover\Attachmentmover\Console App\PowerApps.AttachmentMover\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Elex Projects\Open source\Elex Attachment Mover\Attachmentmover\Console App\PowerApps.AttachmentMover\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Elex Projects\Open source\Elex Attachment Mover\Attachmentmover\Console App\PowerApps.AttachmentMover\bin\Debug\Microsoft.Crm.Sdk.Proxy.xml
+C:\Elex Projects\Open source\Elex Attachment Mover\Attachmentmover\Console App\PowerApps.AttachmentMover\bin\Debug\Microsoft.Data.Edm.xml
+C:\Elex Projects\Open source\Elex Attachment Mover\Attachmentmover\Console App\PowerApps.AttachmentMover\bin\Debug\Microsoft.Data.OData.xml
+C:\Elex Projects\Open source\Elex Attachment Mover\Attachmentmover\Console App\PowerApps.AttachmentMover\bin\Debug\Microsoft.Data.Services.Client.xml
+C:\Elex Projects\Open source\Elex Attachment Mover\Attachmentmover\Console App\PowerApps.AttachmentMover\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Elex Projects\Open source\Elex Attachment Mover\Attachmentmover\Console App\PowerApps.AttachmentMover\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+C:\Elex Projects\Open source\Elex Attachment Mover\Attachmentmover\Console App\PowerApps.AttachmentMover\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Elex Projects\Open source\Elex Attachment Mover\Attachmentmover\Console App\PowerApps.AttachmentMover\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Elex Projects\Open source\Elex Attachment Mover\Attachmentmover\Console App\PowerApps.AttachmentMover\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+C:\Elex Projects\Open source\Elex Attachment Mover\Attachmentmover\Console App\PowerApps.AttachmentMover\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.xml
+C:\Elex Projects\Open source\Elex Attachment Mover\Attachmentmover\Console App\PowerApps.AttachmentMover\bin\Debug\Microsoft.Extensions.Configuration.Json.xml
+C:\Elex Projects\Open source\Elex Attachment Mover\Attachmentmover\Console App\PowerApps.AttachmentMover\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Elex Projects\Open source\Elex Attachment Mover\Attachmentmover\Console App\PowerApps.AttachmentMover\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Elex Projects\Open source\Elex Attachment Mover\Attachmentmover\Console App\PowerApps.AttachmentMover\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\Elex Projects\Open source\Elex Attachment Mover\Attachmentmover\Console App\PowerApps.AttachmentMover\bin\Debug\Microsoft.Extensions.FileProviders.Physical.xml
+C:\Elex Projects\Open source\Elex Attachment Mover\Attachmentmover\Console App\PowerApps.AttachmentMover\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.xml
+C:\Elex Projects\Open source\Elex Attachment Mover\Attachmentmover\Console App\PowerApps.AttachmentMover\bin\Debug\Microsoft.Extensions.Hosting.Abstractions.xml
+C:\Elex Projects\Open source\Elex Attachment Mover\Attachmentmover\Console App\PowerApps.AttachmentMover\bin\Debug\Microsoft.Extensions.Http.xml
+C:\Elex Projects\Open source\Elex Attachment Mover\Attachmentmover\Console App\PowerApps.AttachmentMover\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Elex Projects\Open source\Elex Attachment Mover\Attachmentmover\Console App\PowerApps.AttachmentMover\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Elex Projects\Open source\Elex Attachment Mover\Attachmentmover\Console App\PowerApps.AttachmentMover\bin\Debug\Microsoft.Extensions.Logging.Configuration.xml
+C:\Elex Projects\Open source\Elex Attachment Mover\Attachmentmover\Console App\PowerApps.AttachmentMover\bin\Debug\Microsoft.Extensions.Logging.Console.xml
+C:\Elex Projects\Open source\Elex Attachment Mover\Attachmentmover\Console App\PowerApps.AttachmentMover\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Elex Projects\Open source\Elex Attachment Mover\Attachmentmover\Console App\PowerApps.AttachmentMover\bin\Debug\Microsoft.Extensions.Options.ConfigurationExtensions.xml
+C:\Elex Projects\Open source\Elex Attachment Mover\Attachmentmover\Console App\PowerApps.AttachmentMover\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Elex Projects\Open source\Elex Attachment Mover\Attachmentmover\Console App\PowerApps.AttachmentMover\bin\Debug\Microsoft.Extensions.WebEncoders.xml
+C:\Elex Projects\Open source\Elex Attachment Mover\Attachmentmover\Console App\PowerApps.AttachmentMover\bin\Debug\Microsoft.Graph.xml
+C:\Elex Projects\Open source\Elex Attachment Mover\Attachmentmover\Console App\PowerApps.AttachmentMover\bin\Debug\Microsoft.Graph.Core.xml
+C:\Elex Projects\Open source\Elex Attachment Mover\Attachmentmover\Console App\PowerApps.AttachmentMover\bin\Debug\Microsoft.Identity.Client.xml
+C:\Elex Projects\Open source\Elex Attachment Mover\Attachmentmover\Console App\PowerApps.AttachmentMover\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.xml
+C:\Elex Projects\Open source\Elex Attachment Mover\Attachmentmover\Console App\PowerApps.AttachmentMover\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.xml
+C:\Elex Projects\Open source\Elex Attachment Mover\Attachmentmover\Console App\PowerApps.AttachmentMover\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.Platform.xml
+C:\Elex Projects\Open source\Elex Attachment Mover\Attachmentmover\Console App\PowerApps.AttachmentMover\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Elex Projects\Open source\Elex Attachment Mover\Attachmentmover\Console App\PowerApps.AttachmentMover\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\Elex Projects\Open source\Elex Attachment Mover\Attachmentmover\Console App\PowerApps.AttachmentMover\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Elex Projects\Open source\Elex Attachment Mover\Attachmentmover\Console App\PowerApps.AttachmentMover\bin\Debug\Microsoft.Net.Http.Headers.xml
+C:\Elex Projects\Open source\Elex Attachment Mover\Attachmentmover\Console App\PowerApps.AttachmentMover\bin\Debug\Microsoft.WindowsAzure.Storage.pdb
+C:\Elex Projects\Open source\Elex Attachment Mover\Attachmentmover\Console App\PowerApps.AttachmentMover\bin\Debug\Microsoft.WindowsAzure.Storage.xml
+C:\Elex Projects\Open source\Elex Attachment Mover\Attachmentmover\Console App\PowerApps.AttachmentMover\bin\Debug\Microsoft.Xrm.Sdk.xml
+C:\Elex Projects\Open source\Elex Attachment Mover\Attachmentmover\Console App\PowerApps.AttachmentMover\bin\Debug\Microsoft.Xrm.Sdk.Deployment.xml
+C:\Elex Projects\Open source\Elex Attachment Mover\Attachmentmover\Console App\PowerApps.AttachmentMover\bin\Debug\Microsoft.Xrm.Sdk.Workflow.xml
+C:\Elex Projects\Open source\Elex Attachment Mover\Attachmentmover\Console App\PowerApps.AttachmentMover\bin\Debug\Microsoft.Xrm.Tooling.Connector.xml
+C:\Elex Projects\Open source\Elex Attachment Mover\Attachmentmover\Console App\PowerApps.AttachmentMover\bin\Debug\Newtonsoft.Json.xml
+C:\Elex Projects\Open source\Elex Attachment Mover\Attachmentmover\Console App\PowerApps.AttachmentMover\bin\Debug\NSubstitute.xml
+C:\Elex Projects\Open source\Elex Attachment Mover\Attachmentmover\Console App\PowerApps.AttachmentMover\bin\Debug\OfficeDevPnP.Core.xml
+C:\Elex Projects\Open source\Elex Attachment Mover\Attachmentmover\Console App\PowerApps.AttachmentMover\bin\Debug\PnP.Core.xml
+C:\Elex Projects\Open source\Elex Attachment Mover\Attachmentmover\Console App\PowerApps.AttachmentMover\bin\Debug\PnP.Framework.xml
+C:\Elex Projects\Open source\Elex Attachment Mover\Attachmentmover\Console App\PowerApps.AttachmentMover\bin\Debug\Serilog.xml
+C:\Elex Projects\Open source\Elex Attachment Mover\Attachmentmover\Console App\PowerApps.AttachmentMover\bin\Debug\Serilog.Extensions.Logging.xml
+C:\Elex Projects\Open source\Elex Attachment Mover\Attachmentmover\Console App\PowerApps.AttachmentMover\bin\Debug\Serilog.Sinks.EventLog.xml
+C:\Elex Projects\Open source\Elex Attachment Mover\Attachmentmover\Console App\PowerApps.AttachmentMover\bin\Debug\Serilog.Sinks.File.pdb
+C:\Elex Projects\Open source\Elex Attachment Mover\Attachmentmover\Console App\PowerApps.AttachmentMover\bin\Debug\Serilog.Sinks.File.xml
+C:\Elex Projects\Open source\Elex Attachment Mover\Attachmentmover\Console App\PowerApps.AttachmentMover\bin\Debug\System.Buffers.xml
+C:\Elex Projects\Open source\Elex Attachment Mover\Attachmentmover\Console App\PowerApps.AttachmentMover\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Elex Projects\Open source\Elex Attachment Mover\Attachmentmover\Console App\PowerApps.AttachmentMover\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Elex Projects\Open source\Elex Attachment Mover\Attachmentmover\Console App\PowerApps.AttachmentMover\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Elex Projects\Open source\Elex Attachment Mover\Attachmentmover\Console App\PowerApps.AttachmentMover\bin\Debug\System.IO.Packaging.xml
+C:\Elex Projects\Open source\Elex Attachment Mover\Attachmentmover\Console App\PowerApps.AttachmentMover\bin\Debug\System.Memory.xml
+C:\Elex Projects\Open source\Elex Attachment Mover\Attachmentmover\Console App\PowerApps.AttachmentMover\bin\Debug\System.Memory.Data.xml
+C:\Elex Projects\Open source\Elex Attachment Mover\Attachmentmover\Console App\PowerApps.AttachmentMover\bin\Debug\System.Net.Http.Formatting.xml
+C:\Elex Projects\Open source\Elex Attachment Mover\Attachmentmover\Console App\PowerApps.AttachmentMover\bin\Debug\System.Numerics.Vectors.xml
+C:\Elex Projects\Open source\Elex Attachment Mover\Attachmentmover\Console App\PowerApps.AttachmentMover\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Elex Projects\Open source\Elex Attachment Mover\Attachmentmover\Console App\PowerApps.AttachmentMover\bin\Debug\System.Security.AccessControl.xml
+C:\Elex Projects\Open source\Elex Attachment Mover\Attachmentmover\Console App\PowerApps.AttachmentMover\bin\Debug\System.Security.Permissions.xml
+C:\Elex Projects\Open source\Elex Attachment Mover\Attachmentmover\Console App\PowerApps.AttachmentMover\bin\Debug\System.Security.Principal.Windows.xml
+C:\Elex Projects\Open source\Elex Attachment Mover\Attachmentmover\Console App\PowerApps.AttachmentMover\bin\Debug\System.Spatial.xml
+C:\Elex Projects\Open source\Elex Attachment Mover\Attachmentmover\Console App\PowerApps.AttachmentMover\bin\Debug\System.Text.Encodings.Web.xml
+C:\Elex Projects\Open source\Elex Attachment Mover\Attachmentmover\Console App\PowerApps.AttachmentMover\bin\Debug\System.Text.Json.xml
+C:\Elex Projects\Open source\Elex Attachment Mover\Attachmentmover\Console App\PowerApps.AttachmentMover\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Elex Projects\Open source\Elex Attachment Mover\Attachmentmover\Console App\PowerApps.AttachmentMover\bin\Debug\System.ValueTuple.xml
+C:\Elex Projects\Open source\Elex Attachment Mover\Attachmentmover\Console App\PowerApps.AttachmentMover\bin\Debug\System.Web.Http.xml
+C:\Elex Projects\Open source\Elex Attachment Mover\Attachmentmover\Console App\PowerApps.AttachmentMover\bin\Debug\TimeZoneConverter.xml
+C:\Elex Projects\Open source\Elex Attachment Mover\Attachmentmover\Console App\PowerApps.AttachmentMover\bin\Debug\Microsoft.Activities.xml
+C:\Elex Projects\Open source\Elex Attachment Mover\Attachmentmover\Console App\PowerApps.AttachmentMover\bin\Debug\de\Microsoft.Data.Edm.resources.dll
+C:\Elex Projects\Open source\Elex Attachment Mover\Attachmentmover\Console App\PowerApps.AttachmentMover\bin\Debug\es\Microsoft.Data.Edm.resources.dll
+C:\Elex Projects\Open source\Elex Attachment Mover\Attachmentmover\Console App\PowerApps.AttachmentMover\bin\Debug\fr\Microsoft.Data.Edm.resources.dll
+C:\Elex Projects\Open source\Elex Attachment Mover\Attachmentmover\Console App\PowerApps.AttachmentMover\bin\Debug\it\Microsoft.Data.Edm.resources.dll
+C:\Elex Projects\Open source\Elex Attachment Mover\Attachmentmover\Console App\PowerApps.AttachmentMover\bin\Debug\ja\Microsoft.Data.Edm.resources.dll
+C:\Elex Projects\Open source\Elex Attachment Mover\Attachmentmover\Console App\PowerApps.AttachmentMover\bin\Debug\ko\Microsoft.Data.Edm.resources.dll
+C:\Elex Projects\Open source\Elex Attachment Mover\Attachmentmover\Console App\PowerApps.AttachmentMover\bin\Debug\ru\Microsoft.Data.Edm.resources.dll
+C:\Elex Projects\Open source\Elex Attachment Mover\Attachmentmover\Console App\PowerApps.AttachmentMover\bin\Debug\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Elex Projects\Open source\Elex Attachment Mover\Attachmentmover\Console App\PowerApps.AttachmentMover\bin\Debug\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Elex Projects\Open source\Elex Attachment Mover\Attachmentmover\Console App\PowerApps.AttachmentMover\bin\Debug\de\Microsoft.Data.OData.resources.dll
+C:\Elex Projects\Open source\Elex Attachment Mover\Attachmentmover\Console App\PowerApps.AttachmentMover\bin\Debug\es\Microsoft.Data.OData.resources.dll
+C:\Elex Projects\Open source\Elex Attachment Mover\Attachmentmover\Console App\PowerApps.AttachmentMover\bin\Debug\fr\Microsoft.Data.OData.resources.dll
+C:\Elex Projects\Open source\Elex Attachment Mover\Attachmentmover\Console App\PowerApps.AttachmentMover\bin\Debug\it\Microsoft.Data.OData.resources.dll
+C:\Elex Projects\Open source\Elex Attachment Mover\Attachmentmover\Console App\PowerApps.AttachmentMover\bin\Debug\ja\Microsoft.Data.OData.resources.dll
+C:\Elex Projects\Open source\Elex Attachment Mover\Attachmentmover\Console App\PowerApps.AttachmentMover\bin\Debug\ko\Microsoft.Data.OData.resources.dll
+C:\Elex Projects\Open source\Elex Attachment Mover\Attachmentmover\Console App\PowerApps.AttachmentMover\bin\Debug\ru\Microsoft.Data.OData.resources.dll
+C:\Elex Projects\Open source\Elex Attachment Mover\Attachmentmover\Console App\PowerApps.AttachmentMover\bin\Debug\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Elex Projects\Open source\Elex Attachment Mover\Attachmentmover\Console App\PowerApps.AttachmentMover\bin\Debug\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Elex Projects\Open source\Elex Attachment Mover\Attachmentmover\Console App\PowerApps.AttachmentMover\bin\Debug\de\Microsoft.Data.Services.Client.resources.dll
+C:\Elex Projects\Open source\Elex Attachment Mover\Attachmentmover\Console App\PowerApps.AttachmentMover\bin\Debug\es\Microsoft.Data.Services.Client.resources.dll
+C:\Elex Projects\Open source\Elex Attachment Mover\Attachmentmover\Console App\PowerApps.AttachmentMover\bin\Debug\fr\Microsoft.Data.Services.Client.resources.dll
+C:\Elex Projects\Open source\Elex Attachment Mover\Attachmentmover\Console App\PowerApps.AttachmentMover\bin\Debug\it\Microsoft.Data.Services.Client.resources.dll
+C:\Elex Projects\Open source\Elex Attachment Mover\Attachmentmover\Console App\PowerApps.AttachmentMover\bin\Debug\ja\Microsoft.Data.Services.Client.resources.dll
+C:\Elex Projects\Open source\Elex Attachment Mover\Attachmentmover\Console App\PowerApps.AttachmentMover\bin\Debug\ko\Microsoft.Data.Services.Client.resources.dll
+C:\Elex Projects\Open source\Elex Attachment Mover\Attachmentmover\Console App\PowerApps.AttachmentMover\bin\Debug\ru\Microsoft.Data.Services.Client.resources.dll
+C:\Elex Projects\Open source\Elex Attachment Mover\Attachmentmover\Console App\PowerApps.AttachmentMover\bin\Debug\zh-Hans\Microsoft.Data.Services.Client.resources.dll
+C:\Elex Projects\Open source\Elex Attachment Mover\Attachmentmover\Console App\PowerApps.AttachmentMover\bin\Debug\zh-Hant\Microsoft.Data.Services.Client.resources.dll
+C:\Elex Projects\Open source\Elex Attachment Mover\Attachmentmover\Console App\PowerApps.AttachmentMover\bin\Debug\de\System.Spatial.resources.dll
+C:\Elex Projects\Open source\Elex Attachment Mover\Attachmentmover\Console App\PowerApps.AttachmentMover\bin\Debug\es\System.Spatial.resources.dll
+C:\Elex Projects\Open source\Elex Attachment Mover\Attachmentmover\Console App\PowerApps.AttachmentMover\bin\Debug\fr\System.Spatial.resources.dll
+C:\Elex Projects\Open source\Elex Attachment Mover\Attachmentmover\Console App\PowerApps.AttachmentMover\bin\Debug\it\System.Spatial.resources.dll
+C:\Elex Projects\Open source\Elex Attachment Mover\Attachmentmover\Console App\PowerApps.AttachmentMover\bin\Debug\ja\System.Spatial.resources.dll
+C:\Elex Projects\Open source\Elex Attachment Mover\Attachmentmover\Console App\PowerApps.AttachmentMover\bin\Debug\ko\System.Spatial.resources.dll
+C:\Elex Projects\Open source\Elex Attachment Mover\Attachmentmover\Console App\PowerApps.AttachmentMover\bin\Debug\ru\System.Spatial.resources.dll
+C:\Elex Projects\Open source\Elex Attachment Mover\Attachmentmover\Console App\PowerApps.AttachmentMover\bin\Debug\zh-Hans\System.Spatial.resources.dll
+C:\Elex Projects\Open source\Elex Attachment Mover\Attachmentmover\Console App\PowerApps.AttachmentMover\bin\Debug\zh-Hant\System.Spatial.resources.dll
+C:\Elex Projects\Open source\Elex Attachment Mover\Attachmentmover\Console App\PowerApps.AttachmentMover\obj\Debug\PowerApps.AttachmentMover.csproj.AssemblyReference.cache
+C:\Elex Projects\Open source\Elex Attachment Mover\Attachmentmover\Console App\PowerApps.AttachmentMover\obj\Debug\PowerApps.AttachmentMover.exe.config
+C:\Elex Projects\Open source\Elex Attachment Mover\Attachmentmover\Console App\PowerApps.AttachmentMover\obj\Debug\AttachmentMover.Properties.Resources.resources
+C:\Elex Projects\Open source\Elex Attachment Mover\Attachmentmover\Console App\PowerApps.AttachmentMover\obj\Debug\AttachmentMover.Properties.Resources.es-ES.resources
+C:\Elex Projects\Open source\Elex Attachment Mover\Attachmentmover\Console App\PowerApps.AttachmentMover\obj\Debug\AttachmentMover.Properties.Resources.hi-IN.resources
+C:\Elex Projects\Open source\Elex Attachment Mover\Attachmentmover\Console App\PowerApps.AttachmentMover\obj\Debug\PowerApps.AttachmentMover.csproj.GenerateResource.cache
+C:\Elex Projects\Open source\Elex Attachment Mover\Attachmentmover\Console App\PowerApps.AttachmentMover\obj\Debug\PowerApps.AttachmentMover.csproj.CoreCompileInputs.cache
+C:\Elex Projects\Open source\Elex Attachment Mover\Attachmentmover\Console App\PowerApps.AttachmentMover\obj\Debug\es-ES\PowerApps.AttachmentMover.resources.dll
+C:\Elex Projects\Open source\Elex Attachment Mover\Attachmentmover\Console App\PowerApps.AttachmentMover\obj\Debug\hi-IN\PowerApps.AttachmentMover.resources.dll
+C:\Elex Projects\Open source\Elex Attachment Mover\Attachmentmover\Console App\PowerApps.AttachmentMover\obj\Debug\PowerApps.AttachmentMover.csproj.CopyComplete
+C:\Elex Projects\Open source\Elex Attachment Mover\Attachmentmover\Console App\PowerApps.AttachmentMover\obj\Debug\PowerApps.AttachmentMover.exe
+C:\Elex Projects\Open source\Elex Attachment Mover\Attachmentmover\Console App\PowerApps.AttachmentMover\obj\Debug\PowerApps.AttachmentMover.pdb
