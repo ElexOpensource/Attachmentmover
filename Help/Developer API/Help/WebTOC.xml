@@ -1,0 +1,99 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HelpTOC>
+
+  <HelpTOCNode Id="6f00c71b-f7da-4c0d-9f3a-3c0404307187" Title="AttachmentMover" Url="html/30fe0b1c-3325-c773-556c-ca87b8efdb7f.htm">
+    <HelpTOCNode Id="2131dd9e-f3ca-4ce4-acd1-7f48e94eff88" Title="Bootstrapper Class" Url="html/45b3155e-70b8-4979-f52d-7209efc65fad.htm">
+      <HelpTOCNode Title="Bootstrapper Constructor " Url="html/17c9c35b-7942-4308-7ac5-b119263e7be8.htm" />
+      <HelpTOCNode Id="2c160d94-d3a1-4d48-ac1c-3033eaa5b52c" Title="Bootstrapper Methods" Url="html/d4ebc014-d25e-1c8d-63a8-1b01419f5206.htm">
+        <HelpTOCNode Title="RunWorkflow Method " Url="html/50a238be-b346-b22d-4e72-02f64939256f.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+  </HelpTOCNode>
+  <HelpTOCNode Id="5d13dc2e-909c-43cb-8ee1-c5225b8ded47" Title="AttachmentMover.Enumerations" Url="html/19acff00-27d1-51a1-e04c-d4977cdbc698.htm">
+    <HelpTOCNode Title="SupportedModes Enumeration" Url="html/b44cf4d5-0a99-23a4-c84e-1768e19deaae.htm" />
+  </HelpTOCNode>
+  <HelpTOCNode Id="aa9bf8bb-3006-4400-9fff-99174b7be937" Title="AttachmentMover.Factory" Url="html/b5caa709-f3f8-a48b-0650-fab32e00597a.htm">
+    <HelpTOCNode Id="741b9727-1fbf-42d7-ba6a-f958f90e15b1" Title="AzureContainerFactory Class" Url="html/909f9838-cb06-371f-7e22-71c121c2eaec.htm">
+      <HelpTOCNode Title="AzureContainerFactory Constructor " Url="html/859fdd6f-0411-ed6d-1cac-db1c2329fdb8.htm" />
+      <HelpTOCNode Title="AzureContainerFactory Properties" Url="html/f9b842c5-bfa3-1a3c-5268-1e43e838f216.htm" />
+      <HelpTOCNode Id="eed75381-23f7-4b97-ac3a-882b28e3ad77" Title="AzureContainerFactory Methods" Url="html/c4d45731-4189-5b6c-34b6-1062e9b248e2.htm">
+        <HelpTOCNode Title="GetEligibleFiles Method " Url="html/fb845556-055f-a57c-6b01-f8e5f6b28512.htm" />
+        <HelpTOCNode Title="TransmitFilesToCloud Method " Url="html/34f183ea-f84e-0bae-c131-10f04c496fb3.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Title="AzureContainerFactory Fields" Url="html/2be4ed0d-5044-ddf2-065e-6637d5891890.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Id="34865de5-5135-49d3-b9d2-2f4651337d6a" Title="LocalStorageFactory Class" Url="html/ae566096-ae72-51a2-6206-50688f406cf5.htm">
+      <HelpTOCNode Title="LocalStorageFactory Constructor " Url="html/1b9cf608-8344-e553-bf0c-955ca1af478c.htm" />
+      <HelpTOCNode Id="8570f7c6-fe5b-48cf-b732-09e640f2c7c9" Title="LocalStorageFactory Properties" Url="html/6cc5ac32-b27c-2b6e-00eb-572d7cccc948.htm">
+        <HelpTOCNode Title="strLocalPath Property " Url="html/69e73d87-44e1-4848-42e9-3a1b457d9518.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="e3d8dbf9-17d3-4a2c-990e-02a751d2bae4" Title="LocalStorageFactory Methods" Url="html/d32e41b0-2da7-b72c-eeb5-270c93840dca.htm">
+        <HelpTOCNode Title="GetEligibleFiles Method " Url="html/6e6b67fc-3c66-4336-fed4-6b6077c49b84.htm" />
+        <HelpTOCNode Title="TransmitFilesToCloud Method " Url="html/c3b58c81-98f6-5c43-6218-8a00c9bd9815.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="d56c553e-8ce1-40f6-94c9-d79c76d90860" Title="LocalStorageFactory Fields" Url="html/dd02e7c0-c529-3c7a-898b-34ea3df4d4f2.htm">
+        <HelpTOCNode Title="Logger Field" Url="html/745a6b9d-a939-8d48-8aad-42a522e19ed8.htm" />
+        <HelpTOCNode Title="QueuedFiles Field" Url="html/8a5d8f36-13a0-d625-2210-0beb9b04dc0c.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="d6555ecf-7aac-44bf-b3a8-9d9e10acd5e1" Title="SharepointFactory Class" Url="html/966b71ce-3884-f226-b173-e833988efde9.htm">
+      <HelpTOCNode Title="SharepointFactory Constructor " Url="html/0fcfb953-e795-7b5c-5c39-f0dad2891c0c.htm" />
+      <HelpTOCNode Id="18332512-f654-4501-92fd-571588f4afb8" Title="SharepointFactory Properties" Url="html/e680a4b0-5338-963d-3d93-1569bfbd8372.htm">
+        <HelpTOCNode Title="customerFolder Property " Url="html/b6bd5e6b-79e7-698a-a037-6c8d1a8d8ff1.htm" />
+        <HelpTOCNode Title="documentLibrary Property " Url="html/2f0cdf41-43d3-5dd6-d1ba-76d63d5826f6.htm" />
+        <HelpTOCNode Title="password Property " Url="html/f15b194e-ad78-ffbd-c532-01558aae47e5.htm" />
+        <HelpTOCNode Title="siteURL Property " Url="html/09936c09-70ad-c89a-2875-804babfb21d3.htm" />
+        <HelpTOCNode Title="userName Property " Url="html/236553e1-44a6-b77a-f623-1393091a0443.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="88e46b7b-0afc-4b8d-8832-adfab06b12c8" Title="SharepointFactory Methods" Url="html/b2019733-7f25-a21b-1927-c619ec92f4fc.htm">
+        <HelpTOCNode Title="GetEligibleFiles Method " Url="html/7ffcf30f-6c28-1278-bda7-ab62781dd1ab.htm" />
+        <HelpTOCNode Title="TransmitFilesToCloud Method " Url="html/d4ac35eb-4915-4fb9-bde2-a4d771ba5a66.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Title="SharepointFactory Fields" Url="html/b2b30442-3dff-9867-8e85-b384a8519ba3.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Id="d8d05b28-a1e9-47b7-a56c-176bcb32b8be" Title="StagingFactory Class" Url="html/115b2ef2-e052-78a6-e535-10ceec364a67.htm">
+      <HelpTOCNode Title="StagingFactory Constructor " Url="html/93a1697e-6040-21a1-95f1-dbf00b8394d6.htm" />
+      <HelpTOCNode Id="be7fcdc0-7aef-4a64-9ab0-21a86b6ff068" Title="StagingFactory Properties" Url="html/46c46787-79ff-f0da-279f-06de105e3161.htm">
+        <HelpTOCNode Title="appId Property " Url="html/eb2da768-8371-15c3-e144-c653764c1818.htm" />
+        <HelpTOCNode Title="authType Property " Url="html/48ba777c-e43b-74fc-a453-96b5f7b0f7aa.htm" />
+        <HelpTOCNode Title="loginPrompt Property " Url="html/70f136fa-43a6-0ad7-d07a-a2ff0f11a234.htm" />
+        <HelpTOCNode Title="password Property " Url="html/2d2f170f-d4ba-48bb-5b4e-ce54b4ee4d4a.htm" />
+        <HelpTOCNode Title="reDirectURL Property " Url="html/1e6f92e9-f8d5-fc05-508b-a6650117ad40.htm" />
+        <HelpTOCNode Title="url Property " Url="html/7ac1ffb5-4e05-ca5b-8558-626cc082c48c.htm" />
+        <HelpTOCNode Title="userName Property " Url="html/73b7dfd5-2997-e139-3a2f-bd7036a3b61f.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="4bdc6940-9f9d-41d5-9aee-75cf238f2468" Title="StagingFactory Methods" Url="html/3db15428-4f1e-79ed-fd9a-e877de77b7a5.htm">
+        <HelpTOCNode Title="GetEligibleFiles Method " Url="html/020e7070-ab3f-da17-5ede-32a3f4932681.htm" />
+        <HelpTOCNode Title="TransmitFilesToCloud Method " Url="html/2a93dd14-a1c4-d5ec-2d9c-955cb42644b4.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="d7574ddc-b406-4931-a1a9-32785a216459" Title="StagingFactory Fields" Url="html/9459fc87-a591-7b75-0c85-72a62541e466.htm">
+        <HelpTOCNode Title="ConnectionString Field" Url="html/73535f51-a292-d5ff-c425-f7969dee618d.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+  </HelpTOCNode>
+  <HelpTOCNode Id="5527a1b1-39aa-4af9-94c4-32fe6822a63f" Title="AttachmentMover.Utilities" Url="html/2c9defd6-be70-5761-7c56-ab7d184fe385.htm">
+    <HelpTOCNode Id="25bf5c1e-905c-4afb-bcbb-ba954e814f30" Title="Constants Class" Url="html/e1ff1924-b65f-bd88-fb34-05d87a0ac667.htm">
+      <HelpTOCNode Title="Constants Constructor " Url="html/99331241-190c-a4b6-8f9d-f74f7c67120f.htm" />
+      <HelpTOCNode Title="Constants Methods" Url="html/541a6f34-c93a-ac21-6197-257d55072631.htm" />
+      <HelpTOCNode Id="9da8eb40-b801-4bc0-bb87-3f283a091153" Title="Constants Fields" Url="html/261ed5fc-d508-6ff5-5922-b95aedf7f89b.htm">
+        <HelpTOCNode Title="connectionString Field" Url="html/dea32d1e-d55c-2932-2897-12db3f2f99a7.htm" />
+        <HelpTOCNode Title="containerName Field" Url="html/fa637c03-e8a4-2ed1-7b1c-591eba39e618.htm" />
+        <HelpTOCNode Title="existingMessage Field" Url="html/f372391a-9bda-3377-91c8-196e2a8b2b95.htm" />
+        <HelpTOCNode Title="JSON Field" Url="html/bccfad19-aed0-f5a0-b9ea-c064c2d72505.htm" />
+        <HelpTOCNode Title="jsonGuid Field" Url="html/b817fa71-e23e-d538-3c01-15f97c0ee7ea.htm" />
+        <HelpTOCNode Title="jsonLogicName Field" Url="html/35741a33-f818-d2e7-578f-041ea394af5a.htm" />
+        <HelpTOCNode Title="NoFiles Field" Url="html/74b96f8f-6a45-44a9-d335-cee4a432b013.htm" />
+        <HelpTOCNode Title="sourceFolder Field" Url="html/271b8c41-8713-ed26-b8bc-c1ba411ecbd1.htm" />
+        <HelpTOCNode Title="successMessage Field" Url="html/7eb3cc50-c101-aaa7-7d22-c9fa3176f2de.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+  </HelpTOCNode>
+  <HelpTOCNode Id="ca26e879-78e1-4010-be9a-f25c9afa6cc7" Title="AttachmentMover.Utilities.Extensions" Url="html/0b27437c-468f-81d7-b779-048ec9e1a2d5.htm">
+    <HelpTOCNode Id="177a7ed7-eec5-416e-af88-6de5fe2c5c62" Title="StringUtils Class" Url="html/64a97f5d-8d39-2e99-459d-60cbac8dad21.htm">
+      <HelpTOCNode Id="20e92a34-cc87-43c0-9716-383554c38476" Title="StringUtils Methods" Url="html/4ce7a6d5-4908-56f7-cc1d-76b1ee9d2486.htm">
+        <HelpTOCNode Title="GetFiles Method " Url="html/7c3f81ab-919b-ddc3-9ef6-b4b0ef36ca86.htm" />
+        <HelpTOCNode Title="ToSecureString Method " Url="html/5af6dc62-cfa9-af94-6c47-d4c69c5ac9a1.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+  </HelpTOCNode>
+</HelpTOC>
