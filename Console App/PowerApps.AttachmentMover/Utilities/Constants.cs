@@ -1,6 +1,6 @@
-﻿using PowerApps.AttachmentMover.Properties;
+﻿using AttachmentMover.Properties;
 
-namespace PowerApps.AttachmentMover.Utilities
+namespace AttachmentMover.Utilities
 {
     public class Constants
     {  

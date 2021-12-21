@@ -7,7 +7,7 @@
     <ProjectGuid>{392521FD-608D-46BB-B1E3-618DC745F113}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <RootNamespace>AttachmentMover</RootNamespace>
-    <AssemblyName>PowerApps.AttachmentMover</AssemblyName>
+    <AssemblyName>AttachmentMover</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

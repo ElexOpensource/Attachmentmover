@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace PowerApps.AttachmentMover.Enumerations
+namespace AttachmentMover.Enumerations
 {
     public enum SupportedModes
     {

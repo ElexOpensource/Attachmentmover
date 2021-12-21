@@ -1,4 +1,5 @@
-﻿using PowerApps.AttachmentMover.Utilities;
+﻿using AttachmentMover.Properties;
+using AttachmentMover.Utilities;
 using Azure.Storage.Blobs;
 using Serilog;
 using Serilog.Core;
@@ -9,25 +10,24 @@ using System.Linq;
 using System.Reflection;
 using System.Text;
 using System.Threading.Tasks;
-using PowerApps.AttachmentMover.Properties;
-using Constants = PowerApps.AttachmentMover.Utilities.Constants;
+using Constants = AttachmentMover.Utilities.Constants;
 
-namespace PowerApps.AttachmentMover.Factory
+namespace AttachmentMover.Factory
 {
     public class AzureContainerFactory : LocalStorageFactory
     {
         public AzureContainerFactory(ILogger _logger) : base (_logger)
         {
-            base.strLocalPath = Utilities.Constants.sourceFolder;
+            base.strLocalPath = Constants.sourceFolder;
         }
      
         public override bool TransmitFiles()
         {
             Logger.Debug("Cloud Transmission Started");
-            BlobServiceClient blobServiceClient = new BlobServiceClient(Utilities.Constants.connectionString);
+            BlobServiceClient blobServiceClient = new BlobServiceClient(Constants.connectionString);
 
             //get a BlobContainerClient
-            var container = blobServiceClient.GetBlobContainerClient(Utilities.Constants.containerName);
+            var container = blobServiceClient.GetBlobContainerClient(Constants.containerName);
 
             //checking if the container exists or not, then determine to create it or not
             bool isExist = container.Exists();

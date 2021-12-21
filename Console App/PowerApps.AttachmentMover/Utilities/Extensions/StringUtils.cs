@@ -6,7 +6,7 @@ using System.Security;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace PowerApps.AttachmentMover.Utilities.Extensions
+namespace AttachmentMover.Utilities.Extensions
 {
     public static class StringUtils
     {

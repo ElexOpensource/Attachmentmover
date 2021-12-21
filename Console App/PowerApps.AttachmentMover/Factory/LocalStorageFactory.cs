@@ -1,15 +1,15 @@
-﻿using System;
+﻿using AttachmentMover.Properties;
+using AttachmentMover.Utilities;
+using System;
 using System.Collections.Generic;
 using System.IO;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using Serilog;
-using PowerApps.AttachmentMover.Utilities.Extensions;
-using PowerApps.AttachmentMover.Properties;
-using PowerApps.AttachmentMover.Utilities;
+using AttachmentMover.Utilities.Extensions;
 
-namespace PowerApps.AttachmentMover.Factory
+namespace AttachmentMover.Factory
 {
     public abstract class LocalStorageFactory
     {

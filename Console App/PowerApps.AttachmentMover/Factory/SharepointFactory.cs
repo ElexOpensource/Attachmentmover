@@ -1,5 +1,5 @@
-﻿using PowerApps.AttachmentMover.Utilities;
-using PowerApps.AttachmentMover.Utilities.Extensions;
+﻿using AttachmentMover.Utilities;
+using AttachmentMover.Utilities.Extensions;
 using Microsoft.SharePoint.Client;
 using PnP.Framework;
 using Serilog;
@@ -14,7 +14,7 @@ using System.Text;
 using System.Threading.Tasks;  
 using System.Security; 
 
-namespace PowerApps.AttachmentMover.Factory
+namespace AttachmentMover.Factory
 {
     public class SharepointFactory : LocalStorageFactory
     {

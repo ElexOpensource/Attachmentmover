@@ -9,13 +9,13 @@ using System.Net;
 using System.Text;
 using System.Threading.Tasks;
 using Microsoft.Xrm.Sdk;
-using PowerApps.AttachmentMover.Properties;
+using AttachmentMover.Properties;
 using Microsoft.Xrm.Tooling.Connector;
 using Serilog.Core;
 using Serilog;
 using System.Reflection;
 
-namespace PowerApps.AttachmentMover.Factory
+namespace AttachmentMover.Factory
 {
     public class StagingFactory : LocalStorageFactory
     {
@@ -87,10 +87,10 @@ namespace PowerApps.AttachmentMover.Factory
                             isAnnoatation = item["isannotation"].ToString();
                             filefieldname = item["filefieldname"].ToString();
                             string attachment = Path.Combine(strLocalPath, documentFileName);
-                            var myContact = new Entity("doc_staging");
-                            myContact.Attributes["doc_entityname"] = logicalName;
-                            myContact.Attributes["doc_recordguid"] = guid;
-                            myContact.Attributes["doc_name"] = logicalName + guid;
+                            var myContact = new Entity("new_documentattachment");
+                            myContact.Attributes["new_entityname"] = logicalName;
+                            myContact.Attributes["new_recordguid"] = guid;
+                            //myContact.Attributes["new_name"] = logicalName + guid;
                             myContact.Attributes["new_filename"] = documentFileName;
                             myContact.Attributes["new_isannotation"] = isAnnoatation;
                             myContact.Attributes["new_filefieldname"] = filefieldname;
@@ -106,7 +106,7 @@ namespace PowerApps.AttachmentMover.Factory
                             note["filename"] = documentFileName;
                             note["documentbody"] = base64String;
 
-                            note["objectid"] = new EntityReference("doc_staging", RecordID);
+                            note["objectid"] = new EntityReference("new_documentattachment", RecordID);
                             RecordID = svc.Create(note);
 
                             Logger.Debug(RecordID + " was created");

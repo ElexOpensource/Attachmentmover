@@ -5,7 +5,7 @@ using System;
 using System.Collections.Generic;
 using System.IO;
 
-namespace PowerApps.AttachmentMover.Utilities
+namespace AttachmentMover.Utilities
 {
     class FileAnalyzer : Constants
     {

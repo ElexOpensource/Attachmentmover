@@ -1,4 +1,7 @@
-﻿using CrashReporterDotNET;
+﻿using AttachmentMover.Enumerations;
+using AttachmentMover.Factory;
+using AttachmentMover.Properties;
+using CrashReporterDotNET;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Logging;
 using Serilog;
@@ -8,11 +11,8 @@ using System.Globalization;
 using System.Net;
 using System.Text;
 using System.Threading;
-using PowerApps.AttachmentMover.Enumerations;
-using PowerApps.AttachmentMover.Factory;
-using PowerApps.AttachmentMover.Properties;
 
-namespace PowerApps.AttachmentMover
+namespace AttachmentMover
 {
     public partial class Bootstrapper
     {
