@@ -55,9 +55,11 @@ namespace AttachmentMover.Factory
                         Logger.Information($"{file.Name} " + Resources.UploadedSuccessfully);
                     }
                 }
-                catch (Exception e)
+                catch (Exception FileUploadException)
                 {
-                    Logger.Error(e.Message);
+                    string strError = string.Format("{0} failed to upload with error {1}", file.Name, FileUploadException.Message);
+                    ProcessingErrors.Add(strError);
+                    Log.Error(FileUploadException, strError);
                 }
             }
 

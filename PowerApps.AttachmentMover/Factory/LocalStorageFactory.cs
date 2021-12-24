@@ -19,6 +19,8 @@ namespace AttachmentMover.Factory
 
         public string strLocalPath { get; set; }
 
+        protected List<string> ProcessingErrors = new List<string>();
+
         public LocalStorageFactory(ILogger _logger)
         {
             Logger = _logger;

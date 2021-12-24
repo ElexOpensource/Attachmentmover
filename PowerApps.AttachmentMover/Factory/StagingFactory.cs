@@ -81,35 +81,46 @@ namespace AttachmentMover.Factory
 
                         foreach (var item in jsonArray)
                         {
-                            logicalName = item["logicalname"].ToString();
-                            guid = item["entityguid"].ToString();
-                            documentFileName = item["filename"].ToString();
-                            isAnnoatation = item["isannotation"].ToString();
-                            filefieldname = item["filefieldname"].ToString();
-                            string attachment = Path.Combine(strLocalPath, documentFileName);
-                            var myContact = new Entity("new_documentattachment");
-                            myContact.Attributes["new_entityname"] = logicalName;
-                            myContact.Attributes["new_recordguid"] = guid;
-                            //myContact.Attributes["new_name"] = logicalName + guid;
-                            myContact.Attributes["new_filename"] = documentFileName;
-                            myContact.Attributes["new_isannotation"] = isAnnoatation;
-                            myContact.Attributes["new_filefieldname"] = filefieldname;
-                            Guid RecordID = svc.Create(myContact);
+                            var strFileToUpload = Path.Combine(strLocalPath, documentFileName);
+
+                            try
+                            {
+                                logicalName = item["logicalname"].ToString();
+                                guid = item["entityguid"].ToString();
+                                documentFileName = item["filename"].ToString();
+                                isAnnoatation = item["isannotation"].ToString();
+                                filefieldname = item["filefieldname"].ToString();
+                                string attachment = strFileToUpload;
+                                var myContact = new Entity("new_documentattachment");
+                                myContact.Attributes["new_entityname"] = logicalName;
+                                myContact.Attributes["new_recordguid"] = guid;
+                                //myContact.Attributes["new_name"] = logicalName + guid;
+                                myContact.Attributes["new_filename"] = documentFileName;
+                                myContact.Attributes["new_isannotation"] = isAnnoatation;
+                                myContact.Attributes["new_filefieldname"] = filefieldname;
+                                Guid RecordID = svc.Create(myContact);
 
 
-                            Byte[] bytes = File.ReadAllBytes(attachment);
-                            String base64String = Convert.ToBase64String(bytes);
+                                Byte[] bytes = File.ReadAllBytes(attachment);
+                                String base64String = Convert.ToBase64String(bytes);
 
 
-                            Entity note = new Entity("annotation");
-                            note["subject"] = documentFileName;
-                            note["filename"] = documentFileName;
-                            note["documentbody"] = base64String;
+                                Entity note = new Entity("annotation");
+                                note["subject"] = documentFileName;
+                                note["filename"] = documentFileName;
+                                note["documentbody"] = base64String;
 
-                            note["objectid"] = new EntityReference("new_documentattachment", RecordID);
-                            RecordID = svc.Create(note);
+                                note["objectid"] = new EntityReference("new_documentattachment", RecordID);
+                                RecordID = svc.Create(note);
 
-                            Logger.Debug(RecordID + " was created");
+                                Logger.Debug(RecordID + " was created");
+                            }
+                            catch (Exception FileUploadException)
+                            {
+                                string strError = string.Format("{0} failed to upload with error {1}", strFileToUpload, FileUploadException.Message);
+                                ProcessingErrors.Add(strError);
+                                Log.Error(FileUploadException, strError);
+                            }
                         }
                     }
                 }

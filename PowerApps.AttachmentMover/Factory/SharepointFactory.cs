@@ -37,14 +37,8 @@ namespace AttachmentMover.Factory
             documentLibrary = ConfigurationManager.AppSettings["Sharepoint.DocumentLibrary"];
             appId = ConfigurationManager.AppSettings["StagingApproach.appId"];
             SecretId = ConfigurationManager.AppSettings["Sharepoint.SecretId"];
-             
-
         }
-        //public override void GetEligibleFiles()
-        //{
-            
-        //}
-
+        
         public override bool TransmitFiles()
         {
             //var context = new AuthenticationManager().GetACSAppOnlyContext(siteURL, appId, SecretId);
@@ -62,20 +56,29 @@ namespace AttachmentMover.Factory
 
             foreach (var path in base.QueuedFiles)
             {
-                FileInfo fileName = new FileInfo(path.FullName);
-                var localFileName = fileName.Name;
-                FileCreationInformation newFile = new FileCreationInformation();
-                byte[] FileContent = System.IO.File.ReadAllBytes(path.FullName);
-                newFile.ContentStream = new MemoryStream(FileContent);
-                newFile.Url = Path.GetFileName(localFileName);
-                Web web = context.Web;
-                List DocumentLibrary = web.Lists.GetByTitle(documentLibrary);
-                Clientfolder = DocumentLibrary.RootFolder.Folders.Add(customerFolder);
-                Clientfolder.Update();
-                Microsoft.SharePoint.Client.File uploadFile = Clientfolder.Files.Add(newFile);
-                context.Load(DocumentLibrary);
-                context.Load(uploadFile);
-                context.ExecuteQuery();
+                try
+                {
+                    FileInfo fileName = new FileInfo(path.FullName);
+                    var localFileName = fileName.Name;
+                    FileCreationInformation newFile = new FileCreationInformation();
+                    byte[] FileContent = System.IO.File.ReadAllBytes(path.FullName);
+                    newFile.ContentStream = new MemoryStream(FileContent);
+                    newFile.Url = Path.GetFileName(localFileName);
+                    Web web = context.Web;
+                    List DocumentLibrary = web.Lists.GetByTitle(documentLibrary);
+                    Clientfolder = DocumentLibrary.RootFolder.Folders.Add(customerFolder);
+                    Clientfolder.Update();
+                    Microsoft.SharePoint.Client.File uploadFile = Clientfolder.Files.Add(newFile);
+                    context.Load(DocumentLibrary);
+                    context.Load(uploadFile);
+                    context.ExecuteQuery();
+                }
+                catch (Exception FileUploadException)
+                {
+                    string strError = string.Format("{0} failed to upload with error {1}", path.FullName, FileUploadException.Message);
+                    ProcessingErrors.Add(strError);
+                    Log.Error(FileUploadException, strError);
+                }
             }
 
             if (Clientfolder != null)
