@@ -1,36 +1,70 @@
-﻿using Newtonsoft.Json;
-using Newtonsoft.Json.Linq;
-using System;
-using System.Collections.Generic;
+﻿using System;
 using System.Configuration;
 using System.IO;
-using System.Linq;
 using System.Net;
-using System.Text;
-using System.Threading.Tasks;
 using Microsoft.Xrm.Sdk;
-using AttachmentMover.Properties;
 using Microsoft.Xrm.Tooling.Connector;
-using Serilog.Core;
 using Serilog;
-using System.Reflection;
+using Newtonsoft.Json;
+using Newtonsoft.Json.Linq;
+using AttachmentMover.Utilities;
 
 namespace AttachmentMover.Factory
 {
     public class StagingFactory : LocalStorageFactory
     {
+        /// <summary>
+        ///    Authentication Type 
+        /// </summary>
         public string authType { get; set; }
+
+        /// <summary>
+        ///   Username
+        /// </summary>
         public string userName { get; set; }
+
+        /// <summary>
+        ///   Password
+        /// </summary>
         public string password { get; set; }
+
+        /// <summary>
+        ///   URL
+        /// </summary>
         public string url { get; set; }
+
+        /// <summary>
+        ///    Application ID
+        /// </summary>
         public string appId { get; set; }
+
+        /// <summary>
+        ///   Redirector URL
+        /// </summary>
         public string reDirectURL { get; set; }
+
+        /// <summary>
+        ///    Login Prompt
+        /// </summary>
         public string loginPrompt  { get; set; }
-        public string ConnectionString = String.Empty;
+
+        /// <summary>
+        ///   Connection String
+        /// </summary>
+        public string ConnectionString { get; set; }
         
           SecurityProtocolType securityProtocolType { get; set; }
 
+        /// <summary>
+        ///    Crm Service Client Instance
+        /// </summary>
         CrmServiceClient svc = null;
+
+        /// <summary>
+        ///    Initialization of Staging Factory
+        /// </summary>
+        /// <param name="_logger">Injected version of Logger</param>
+
         public StagingFactory(ILogger _logger) : base(_logger)
         {
             authType = ConfigurationManager.AppSettings["StagingApproach.AuthType"];
@@ -66,8 +100,18 @@ namespace AttachmentMover.Factory
             svc = new CrmServiceClient(ConnectionString);
         }
 
+        /// <summary>
+        ///    Worker Process to begin transmission of files from Local to Dynamics 365
+        /// </summary>
+        /// <returns>True, if successful</returns>
         public override bool TransmitFiles()
         {
+            if (base.QueuedFiles is null)
+            {
+                Logger.Warning("No files to process was found");
+                return (false);
+            }
+
             foreach (var eachFileInQueue in QueuedFiles)
             {
                 if (eachFileInQueue.Extension.Contains(".json"))
@@ -81,23 +125,23 @@ namespace AttachmentMover.Factory
 
                         foreach (var item in jsonArray)
                         {
-                            var strFileToUpload = Path.Combine(strLocalPath, documentFileName);
+                            string strFileToUpload = string.Empty;
 
                             try
                             {
-                                logicalName = item["logicalname"].ToString();
-                                guid = item["entityguid"].ToString();
-                                documentFileName = item["filename"].ToString();
-                                isAnnoatation = item["isannotation"].ToString();
-                                filefieldname = item["filefieldname"].ToString();
+                                logicalName = item[StagingFields.LOGICAL_NAME].ToString();
+                                guid = item[StagingFields.ENTITY_GUID].ToString();
+                                documentFileName = item[StagingFields.FILE_NAME].ToString();
+                                isAnnoatation = item[StagingFields.IS_ANNOTATION].ToString();
+                                filefieldname = item[StagingFields.FILE_FIELD_NAME].ToString();
+                                strFileToUpload = Path.Combine(strLocalPath, documentFileName);
                                 string attachment = strFileToUpload;
-                                var myContact = new Entity("new_documentattachment");
-                                myContact.Attributes["new_entityname"] = logicalName;
-                                myContact.Attributes["new_recordguid"] = guid;
-                                //myContact.Attributes["new_name"] = logicalName + guid;
-                                myContact.Attributes["new_filename"] = documentFileName;
-                                myContact.Attributes["new_isannotation"] = isAnnoatation;
-                                myContact.Attributes["new_filefieldname"] = filefieldname;
+                                var myContact = new Entity(StagingFields.NEW_DOCUMENT_ATTACHMENT);
+                                myContact.Attributes[StagingFields.NEW_ENTITY_NAME] = logicalName;
+                                myContact.Attributes[StagingFields.NEW_RECORD_GUID] = guid;
+                                myContact.Attributes[StagingFields.NEW_FILE_NAME] = documentFileName;
+                                myContact.Attributes[StagingFields.NEW_IS_ANNOTATION] = isAnnoatation;
+                                myContact.Attributes[StagingFields.NEW_FILE_FIELD_NAME] = filefieldname;
                                 Guid RecordID = svc.Create(myContact);
 
 
