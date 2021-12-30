@@ -1,14 +1,25 @@
-﻿using Azure.Storage.Blobs;
+﻿using System.Collections.Generic;
+using System.IO;
 using Newtonsoft.Json;
 using Newtonsoft.Json.Linq;
-using System;
-using System.Collections.Generic;
-using System.IO;
+using Azure.Storage.Blobs;
+
 
 namespace AttachmentMover.Utilities
 {
-    class FileAnalyzer : Constants
+
+    /// <summary>
+    ///    File Analyzer Class inspecting the properties of the file name as per enclosed JSON definitions
+    /// </summary>
+    public class FileAnalyzer 
     {
+        /// <summary>
+        ///    Extracting the Meta Data for the given file from the specified path and attaching the same to Container Client
+        /// </summary>
+        /// <param name="fileName">File Name</param>
+        /// <param name="path">Path</param>
+        /// <param name="containerClient">Container Client Instance</param>
+        /// <returns>A string representation of Meta Data</returns>
         public string ExtractMetaData(string fileName, string path,BlobContainerClient containerClient)
         {
             string logicalName = "", guid = "";
