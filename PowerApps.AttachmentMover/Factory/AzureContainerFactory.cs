@@ -1,26 +1,30 @@
 ﻿using AttachmentMover.Properties;
-using AttachmentMover.Utilities;
 using Azure.Storage.Blobs;
 using Serilog;
-using Serilog.Core;
 using System;
-using System.Collections.Generic;
 using System.IO;
-using System.Linq;
-using System.Reflection;
-using System.Text;
-using System.Threading.Tasks;
 using Constants = AttachmentMover.Utilities.Constants;
 
 namespace AttachmentMover.Factory
 {
+    /// <summary>
+    ///    Implementation for Azure Container route for publishing files from Local Storage to Dynamics 365
+    /// </summary>
     public class AzureContainerFactory : LocalStorageFactory
     {
+        /// <summary>
+        ///    Initialization of Azure Container Factory
+        /// </summary>
+        /// <param name="_logger">Injected version of Logger</param>
         public AzureContainerFactory(ILogger _logger) : base (_logger)
         {
             base.strLocalPath = Constants.sourceFolder;
         }
      
+        /// <summary>
+        ///    Worker Process to begin transmission of files from Local to Dynamics 365
+        /// </summary>
+        /// <returns>True, if successful</returns>
         public override bool TransmitFiles()
         {
             Logger.Debug("Cloud Transmission Started");
@@ -35,6 +39,13 @@ namespace AttachmentMover.Factory
             {
                 container.Create();
             }
+
+            if (base.QueuedFiles is null)
+            {
+                Logger.Warning("No files to process was found");
+                return (false);
+            }
+                
 
             foreach (var file in base.QueuedFiles)
             {
@@ -55,9 +66,11 @@ namespace AttachmentMover.Factory
                         Logger.Information($"{file.Name} " + Resources.UploadedSuccessfully);
                     }
                 }
-                catch (Exception e)
+                catch (Exception FileUploadException)
                 {
-                    Logger.Error(e.Message);
+                    string strError = string.Format("{0} failed to upload with error {1}", file.Name, FileUploadException.Message);
+                    ProcessingErrors.Add(strError);
+                    Log.Error(FileUploadException, strError);
                 }
             }
 

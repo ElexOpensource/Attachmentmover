@@ -505,7 +505,7 @@
     <Reference Include="WindowsBase" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Bootstrapper.Init.cs" />
+    <Compile Include="BootstrapperWorker.cs" />
     <Compile Include="Enumerations\SupportedModes.cs" />
     <Compile Include="Utilities\Constants.cs" />
     <Compile Include="Factory\AzureContainerFactory.cs" />
@@ -521,6 +521,7 @@
       <DesignTime>True</DesignTime>
       <DependentUpon>Resources.resx</DependentUpon>
     </Compile>
+    <Compile Include="Utilities\StagingFields.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
@@ -849,7 +850,6 @@
     </EmbeddedResource>
   </ItemGroup>
   <ItemGroup>
-    <Folder Include="ConfigSections\" />
     <Folder Include="Resources\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
